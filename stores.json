@@ -1,0 +1,4844 @@
+[
+  {
+    "Id": 1132,
+    "Name": "LANDI Bercher",
+    "Ort": "Bercher",
+    "PLZ": "1038",
+    "Strasse": "Place de la Gare ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.692953,
+      "Longitude": 6.705686
+    },
+    "Url": "/places/de/landi-bercher",
+    "UrlDirect": "http://www.landimoudon.ch/",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 92 04"
+  },
+  {
+    "Id": 1133,
+    "Name": "LANDI Puidoux",
+    "Ort": "Puidoux-Gare",
+    "PLZ": "1070",
+    "Strasse": "Route du Verney ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.491058,
+      "Longitude": 6.769091
+    },
+    "Url": "/places/de/landi-puidoux",
+    "UrlDirect": "http://www.landirhonelavaux.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 53 60"
+  },
+  {
+    "Id": 1134,
+    "Name": "LANDI Mézières",
+    "Ort": "Mézières VD",
+    "PLZ": "1083",
+    "Strasse": "Route du Village ",
+    "StreetNumber": "70",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.598016,
+      "Longitude": 6.771167
+    },
+    "Url": "/places/de/landi-mezieres",
+    "UrlDirect": "http://www.landimoudon.ch/",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 92 08"
+  },
+  {
+    "Id": 1135,
+    "Name": "LANDI Site de Bussy",
+    "Ort": "Bussy-Chardonney",
+    "PLZ": "1136",
+    "Strasse": "Ch. du Curbit ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.525734,
+      "Longitude": 6.443492
+    },
+    "Url": "/places/de/landi-site-de-bussy",
+    "UrlDirect": "http://www.landilacote.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 22 82"
+  },
+  {
+    "Id": 1136,
+    "Name": "LANDI Site de Perroy",
+    "Ort": "Perroy",
+    "PLZ": "1166",
+    "Strasse": "Rue de la Gare ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.470965,
+      "Longitude": 6.363661
+    },
+    "Url": "/places/de/landi-site-de-perroy",
+    "UrlDirect": "http://www.landilacote.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 23 22"
+  },
+  {
+    "Id": 1137,
+    "Name": "LANDI Lully",
+    "Ort": "Bernex",
+    "PLZ": "1233",
+    "Strasse": "Chemin des Cornaches",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.161406,
+      "Longitude": 6.066926
+    },
+    "Url": "/places/de/landi-lully",
+    "UrlDirect": "http://www.cage.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "022 850 91 60"
+  },
+  {
+    "Id": 1138,
+    "Name": "LANDI Satigny",
+    "Ort": "Satigny",
+    "PLZ": "1242",
+    "Strasse": "Rue des Sablières",
+    "StreetNumber": "15",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.22001,
+      "Longitude": 6.06112
+    },
+    "Url": "/places/de/landi-satigny",
+    "UrlDirect": "http://www.cage.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "022 306 10 10"
+  },
+  {
+    "Id": 1139,
+    "Name": "LANDI Meinier",
+    "Ort": "Meinier",
+    "PLZ": "1252",
+    "Strasse": "Route de Compois",
+    "StreetNumber": "14",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.246523,
+      "Longitude": 6.219203
+    },
+    "Url": "/places/de/landi-meinier",
+    "UrlDirect": "http://www.cage.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "022 752 44 71"
+  },
+  {
+    "Id": 1140,
+    "Name": "LANDI Site d'Eysins",
+    "Ort": "Eysins",
+    "PLZ": "1262",
+    "Strasse": "Route de Crassier ",
+    "StreetNumber": "27",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.38462,
+      "Longitude": 6.212968
+    },
+    "Url": "/places/de/landi-site-deysins",
+    "UrlDirect": "http://www.landilacote.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 23 02"
+  },
+  {
+    "Id": 1142,
+    "Name": "LANDI Orbe",
+    "Ort": "Orbe",
+    "PLZ": "1350",
+    "Strasse": "Chemin de Longeraie ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.719646,
+      "Longitude": 6.54146
+    },
+    "Url": "/places/de/landi-orbe",
+    "UrlDirect": "http://www.landinordvaudoisvenoge.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 39 20"
+  },
+  {
+    "Id": 1143,
+    "Name": "LANDI Yverdon",
+    "Ort": "Yverdon-les-Bains",
+    "PLZ": "1400",
+    "Strasse": "Avenue des Sports ",
+    "StreetNumber": "48",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.779725,
+      "Longitude": 6.653991
+    },
+    "Url": "/places/de/landi-yverdon",
+    "UrlDirect": "http://www.landinordvaudoisvenoge.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "058 434 39 40"
+  },
+  {
+    "Id": 1144,
+    "Name": "LANDI Estavayer-le-Lac",
+    "Ort": "Estavayer-le-Lac",
+    "PLZ": "1470",
+    "Strasse": "Pl. de la Gare ",
+    "StreetNumber": "7",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.843875,
+      "Longitude": 6.842821
+    },
+    "Url": "/places/de/landi-estavayer-le-lac",
+    "UrlDirect": "http://www.landicentrebroye.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00, 13:30 - 16:00",
+    "Phone": "026 663 93 89"
+  },
+  {
+    "Id": 1145,
+    "Name": "LANDI Moudon",
+    "Ort": "Moudon",
+    "PLZ": "1510",
+    "Strasse": "Rte de Bronjon ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.668891,
+      "Longitude": 6.804861
+    },
+    "Url": "/places/de/landi-moudon",
+    "UrlDirect": "http://www.landimoudon.ch/",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 91 99"
+  },
+  {
+    "Id": 1146,
+    "Name": "LANDI Granges/Combremont",
+    "Ort": "Granges-Marnand",
+    "PLZ": "1523",
+    "Strasse": "Rue du Canard 12",
+    "StreetNumber": "12",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.757956,
+      "Longitude": 6.893111
+    },
+    "Url": "/places/de/landi-grangescombremont",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "026 668 11 30"
+  },
+  {
+    "Id": 1148,
+    "Name": "LANDI Avenches",
+    "Ort": "Avenches",
+    "PLZ": "1580",
+    "Strasse": "En Milavy",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.885876,
+      "Longitude": 7.043296
+    },
+    "Url": "/places/de/landi-avenches",
+    "UrlDirect": "http://www.landiavenches.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "026 676 94 00"
+  },
+  {
+    "Id": 1149,
+    "Name": "LANDI Oron",
+    "Ort": "Oron-la-Ville",
+    "PLZ": "1610",
+    "Strasse": "Route de Lausanne ",
+    "StreetNumber": "39",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.570515,
+      "Longitude": 6.818411
+    },
+    "Url": "/places/de/landi-oron",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 98 98"
+  },
+  {
+    "Id": 1150,
+    "Name": "LANDI Châtel-St-Denis",
+    "Ort": "Châtel-St-Denis",
+    "PLZ": "1618",
+    "Strasse": "Rue de Montreux ",
+    "StreetNumber": "140",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.518728,
+      "Longitude": 6.905551
+    },
+    "Url": "/places/de/landi-châtel-st-denis",
+    "UrlDirect": "http://www.landimolesonsarine.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 24 50"
+  },
+  {
+    "Id": 1151,
+    "Name": "LANDI Bulle",
+    "Ort": "Bulle",
+    "PLZ": "1630",
+    "Strasse": "Route de Riaz ",
+    "StreetNumber": "87",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.627678,
+      "Longitude": 7.059417
+    },
+    "Url": "/places/de/landi-bulle",
+    "UrlDirect": "http://www.landimolesonsarine.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 24 00"
+  },
+  {
+    "Id": 1152,
+    "Name": "LANDI Château d'Oex",
+    "Ort": "Château-d'Oex",
+    "PLZ": "1660",
+    "Strasse": "Rte de Saanen ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.471601,
+      "Longitude": 7.128947
+    },
+    "Url": "/places/de/landi-château-doex",
+    "UrlDirect": "http://www.landimolesonsarine.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "058 434 24 80"
+  },
+  {
+    "Id": 1153,
+    "Name": "LANDI Vauderens",
+    "Ort": "Vauderens",
+    "PLZ": "1675",
+    "Strasse": "Rte d'Ursy ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.623279,
+      "Longitude": 6.851067
+    },
+    "Url": "/places/de/landi-vauderens",
+    "UrlDirect": "http://www.landivauderens.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "021 909 10 30"
+  },
+  {
+    "Id": 1154,
+    "Name": "LANDI Romont",
+    "Ort": "Romont",
+    "PLZ": "1680",
+    "Strasse": "Route de l'ancienne ferme ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.691391,
+      "Longitude": 6.909017
+    },
+    "Url": "/places/de/landi-romont",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 99 33"
+  },
+  {
+    "Id": 1155,
+    "Name": "LANDI Tafers",
+    "Ort": "Tafers",
+    "PLZ": "1712",
+    "Strasse": "Dorfschaftsstrasse ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.822842,
+      "Longitude": 7.208472
+    },
+    "Url": "/places/de/landi-tafers",
+    "UrlDirect": "www.landiduedingen-guin.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "026 494 50 10"
+  },
+  {
+    "Id": 1156,
+    "Name": "LANDI Heitenried",
+    "Ort": "Heitenried",
+    "PLZ": "1714",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "47",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.803039,
+      "Longitude": 7.229077
+    },
+    "Url": "/places/de/landi-heitenried",
+    "UrlDirect": "www.landiduedingen-guin.ch",
+    "OeffnungszeitenToday": "07:30 - 12:00",
+    "Phone": "026 495 21 41"
+  },
+  {
+    "Id": 1157,
+    "Name": "LANDI Plaffeien",
+    "Ort": "Plaffeien",
+    "PLZ": "1716",
+    "Strasse": "Obere Matta",
+    "StreetNumber": "20",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.739462,
+      "Longitude": 7.290264
+    },
+    "Url": "/places/de/landi-plaffeien",
+    "UrlDirect": "http://www.landisense-oberland.ch",
+    "OeffnungszeitenToday": "07:30 - 15:00",
+    "Phone": "026 419 12 51"
+  },
+  {
+    "Id": 1159,
+    "Name": "LANDI Tentlingen",
+    "Ort": "Tentlingen",
+    "PLZ": "1734",
+    "Strasse": "Oberlandstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.770202,
+      "Longitude": 7.198108
+    },
+    "Url": "/places/de/landi-tentlingen",
+    "UrlDirect": "http://www.landisense-oberland.ch",
+    "OeffnungszeitenToday": "07:30 - 11:45",
+    "Phone": "026 418 11 63"
+  },
+  {
+    "Id": 1160,
+    "Name": "LANDI Chénens",
+    "Ort": "Chénens",
+    "PLZ": "1744",
+    "Strasse": "Rue de la Gare ",
+    "StreetNumber": "81",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.748844,
+      "Longitude": 7.001583
+    },
+    "Url": "/places/de/landi-chenens",
+    "UrlDirect": "http://www.chenensvins.ch/",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "026 477 90 00"
+  },
+  {
+    "Id": 1161,
+    "Name": "LANDI Grolley",
+    "Ort": "Grolley",
+    "PLZ": "1772",
+    "Strasse": "Route du P.A.A. ",
+    "StreetNumber": "25",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.830969,
+      "Longitude": 7.057677
+    },
+    "Url": "/places/de/landi-grolley",
+    "UrlDirect": "http://www.landimolesonsarine.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "026 476 64 64"
+  },
+  {
+    "Id": 1162,
+    "Name": "LANDI Courtepin",
+    "Ort": "Courtepin",
+    "PLZ": "1784",
+    "Strasse": "Route de Morat ",
+    "StreetNumber": "15B",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.870457,
+      "Longitude": 7.122397
+    },
+    "Url": "/places/de/landi-courtepin",
+    "UrlDirect": "www.landiduedingen-guin.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "026 684 11 22"
+  },
+  {
+    "Id": 1163,
+    "Name": "LANDI Aigle",
+    "Ort": "Aigle",
+    "PLZ": "1860",
+    "Strasse": "Ch. de la Biole ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.308913,
+      "Longitude": 6.940339
+    },
+    "Url": "/places/de/landi-aigle",
+    "UrlDirect": "http://www.landirhonelavaux.ch",
+    "OeffnungszeitenToday": "08:30 - 17:00",
+    "Phone": "058 476 53 30"
+  },
+  {
+    "Id": 1164,
+    "Name": "LANDI Saxon",
+    "Ort": "Saxon",
+    "PLZ": "1907",
+    "Strasse": "Route du Léman ",
+    "StreetNumber": "12",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.145375,
+      "Longitude": 7.166492
+    },
+    "Url": "/places/de/landi-saxon",
+    "UrlDirect": "http://www.landirhonelavaux.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 53 80"
+  },
+  {
+    "Id": 1166,
+    "Name": "LANDI Bevaix",
+    "Ort": "Bevaix",
+    "PLZ": "2022",
+    "Strasse": "Chemin des Maladières ",
+    "StreetNumber": "14",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.920708,
+      "Longitude": 6.807661
+    },
+    "Url": "/places/de/landi-bevaix",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "058 434 33 00"
+  },
+  {
+    "Id": 1167,
+    "Name": "LANDI Cernier",
+    "Ort": "Cernier",
+    "PLZ": "2053",
+    "Strasse": "Passage des Cèpes ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.06018,
+      "Longitude": 6.910809
+    },
+    "Url": "/places/de/landi-cernier",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 99 00"
+  },
+  {
+    "Id": 1169,
+    "Name": "LANDI Val-de-Travers",
+    "Ort": "Môtiers",
+    "PLZ": "2112",
+    "Strasse": "Rue de la Gare ",
+    "StreetNumber": "14",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.911338,
+      "Longitude": 6.609055
+    },
+    "Url": "/places/de/landi-val-de-travers",
+    "UrlDirect": "http://www.landiregionneuchatel.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 33 40"
+  },
+  {
+    "Id": 1170,
+    "Name": "LANDI Le Crêt-du-Locle",
+    "Ort": "Le Crêt-du-Locle",
+    "PLZ": "2322",
+    "Strasse": "Crêt-du-Locle ",
+    "StreetNumber": "28",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.076202,
+      "Longitude": 6.780704
+    },
+    "Url": "/places/de/landi-le-crêt-du-locle",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "058 434 28 00"
+  },
+  {
+    "Id": 1171,
+    "Name": "LANDI Saignelégier",
+    "Ort": "Saignelégier",
+    "PLZ": "2350",
+    "Strasse": "Chemin des Labours",
+    "StreetNumber": "12",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.254255,
+      "Longitude": 7.004953
+    },
+    "Url": "/places/de/landi-saignelegier",
+    "UrlDirect": "http://www.landiarcjura.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 16 45"
+  },
+  {
+    "Id": 1172,
+    "Name": "LANDI Grenchen",
+    "Ort": "Grenchen",
+    "PLZ": "2540",
+    "Strasse": "Neckarsulmstrasse ",
+    "StreetNumber": "50",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.187519,
+      "Longitude": 7.410891
+    },
+    "Url": "/places/de/landi-grenchen",
+    "UrlDirect": "http://www.landireso.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "032 655 65 00"
+  },
+  {
+    "Id": 1173,
+    "Name": "LANDI Courtelary",
+    "Ort": "Courtelary",
+    "PLZ": "2608",
+    "Strasse": "Grand-Rue",
+    "StreetNumber": "102",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.181655,
+      "Longitude": 7.08336
+    },
+    "Url": "/places/de/landi-courtelary",
+    "UrlDirect": "http://www.landiarcjura.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 16 55"
+  },
+  {
+    "Id": 1174,
+    "Name": "LANDI Pontenet",
+    "Ort": "Pontenet",
+    "PLZ": "2733",
+    "Strasse": "Route Cantonale",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.238115,
+      "Longitude": 7.249124
+    },
+    "Url": "/places/de/landi-pontenet",
+    "UrlDirect": "http://www.landipontenet.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 91 10"
+  },
+  {
+    "Id": 1176,
+    "Name": "LANDI Delémont",
+    "Ort": "Delémont",
+    "PLZ": "2800",
+    "Strasse": "Route de Moutier",
+    "StreetNumber": "111",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.362258,
+      "Longitude": 7.360023
+    },
+    "Url": "/places/de/landi-delemont",
+    "UrlDirect": "http://www.landiarcjura.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 16 25"
+  },
+  {
+    "Id": 1178,
+    "Name": "LANDI St.Ursanne",
+    "Ort": "St-Ursanne",
+    "PLZ": "2882",
+    "Strasse": "Route des Rangiers",
+    "StreetNumber": "56",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.366736,
+      "Longitude": 7.161293
+    },
+    "Url": "/places/de/landi-stursanne",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 12:00",
+    "Phone": "032 461 31 31"
+  },
+  {
+    "Id": 1179,
+    "Name": "LANDI Alle",
+    "Ort": "Alle",
+    "PLZ": "2942",
+    "Strasse": "Pré-Domont",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.425715,
+      "Longitude": 7.126051
+    },
+    "Url": "/places/de/landi-alle",
+    "UrlDirect": "http://www.landiarcjura.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 16 60"
+  },
+  {
+    "Id": 1180,
+    "Name": "LANDI Wohlen",
+    "Ort": "Wohlen b. Bern",
+    "PLZ": "3033",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "19",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.971353,
+      "Longitude": 7.355552
+    },
+    "Url": "/places/de/landi-wohlen",
+    "UrlDirect": "http://www.landiwohlensee.ch/",
+    "OeffnungszeitenToday": "07:00 - 17:00",
+    "Phone": "031 829 04 34"
+  },
+  {
+    "Id": 1181,
+    "Name": "LANDI Uettligen",
+    "Ort": "Uettligen",
+    "PLZ": "3043",
+    "Strasse": "Säriswilstrasse ",
+    "StreetNumber": "13",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.987667,
+      "Longitude": 7.383824
+    },
+    "Url": "/places/de/landi-uettligen",
+    "UrlDirect": "http://www.landiwohlensee.ch/",
+    "OeffnungszeitenToday": "07:30 - 17:00",
+    "Phone": "031 829 02 54"
+  },
+  {
+    "Id": 1182,
+    "Name": "LANDI Zollikofen",
+    "Ort": "Zollikofen",
+    "PLZ": "3052",
+    "Strasse": "Eichenweg ",
+    "StreetNumber": "35",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.997257,
+      "Longitude": 7.463849
+    },
+    "Url": "/places/de/landi-zollikofen",
+    "UrlDirect": "http://www.landimoossee.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 96 70"
+  },
+  {
+    "Id": 1183,
+    "Name": "LANDI Münchenbuchsee",
+    "Ort": "Münchenbuchsee",
+    "PLZ": "3053",
+    "Strasse": "Bahnhofstr. ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.020459,
+      "Longitude": 7.453219
+    },
+    "Url": "/places/de/landi-muenchenbuchsee",
+    "UrlDirect": "http://www.landimoossee.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 96 60"
+  },
+  {
+    "Id": 1184,
+    "Name": "LANDI Schüpfen",
+    "Ort": "Schüpfen",
+    "PLZ": "3054",
+    "Strasse": "Lyssstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.04311,
+      "Longitude": 7.38131
+    },
+    "Url": "/places/de/landi-schuepfen",
+    "UrlDirect": "http://www.landimoossee.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 96 50"
+  },
+  {
+    "Id": 1185,
+    "Name": "LANDI Bolligen ",
+    "Ort": "Bolligen",
+    "PLZ": "3065",
+    "Strasse": "Bolligenstrasse ",
+    "StreetNumber": "92",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.970165,
+      "Longitude": 7.497279
+    },
+    "Url": "/places/de/landi-bolligen",
+    "UrlDirect": "http://www.landibolligen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "031 925 92 92"
+  },
+  {
+    "Id": 1186,
+    "Name": "LANDI Vechigen ",
+    "Ort": "Boll",
+    "PLZ": "3067",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.953808,
+      "Longitude": 7.547321
+    },
+    "Url": "/places/de/landi-vechigen",
+    "UrlDirect": "http://www.landivechigen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "031 839 04 63"
+  },
+  {
+    "Id": 1187,
+    "Name": "LANDI Worb",
+    "Ort": "Worb",
+    "PLZ": "3076",
+    "Strasse": "Rubigenstrasse",
+    "StreetNumber": "80",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.91486,
+      "Longitude": 7.563359
+    },
+    "Url": "/places/de/landi-worb",
+    "UrlDirect": "http://www.landiaare.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 59 01"
+  },
+  {
+    "Id": 1188,
+    "Name": "LANDI Rüeggisberg",
+    "Ort": "Rüeggisberg",
+    "PLZ": "3088",
+    "Strasse": "Dorfstrasse",
+    "StreetNumber": "30",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.821575,
+      "Longitude": 7.443105
+    },
+    "Url": "/places/de/landi-rueeggisberg",
+    "UrlDirect": "http://www.landithun.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "058 476 90 07"
+  },
+  {
+    "Id": 1189,
+    "Name": "LANDI Köniz",
+    "Ort": "Köniz",
+    "PLZ": "3098",
+    "Strasse": "Gartenstadtstrasse ",
+    "StreetNumber": "7a",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.926252,
+      "Longitude": 7.41464
+    },
+    "Url": "/places/de/landi-koeniz",
+    "UrlDirect": "http://www.landischwarzwasser.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 97 20"
+  },
+  {
+    "Id": 1190,
+    "Name": "LANDI Wichtrach",
+    "Ort": "Wichtrach",
+    "PLZ": "3114",
+    "Strasse": "Seilereistrasse",
+    "StreetNumber": "20",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.844968,
+      "Longitude": 7.56837
+    },
+    "Url": "/places/de/landi-wichtrach",
+    "UrlDirect": "http://www.landiaare.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 59 11"
+  },
+  {
+    "Id": 1191,
+    "Name": "LANDI Belp",
+    "Ort": "Belp",
+    "PLZ": "3123",
+    "Strasse": "Aemmenmattstrasse",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.900319,
+      "Longitude": 7.502836
+    },
+    "Url": "/places/de/landi-belp",
+    "UrlDirect": "http://www.landiaare.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 59 15"
+  },
+  {
+    "Id": 1192,
+    "Name": "LANDI Mühlethurnen",
+    "Ort": "Mühlethurnen",
+    "PLZ": "3127",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "45",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.814524,
+      "Longitude": 7.513601
+    },
+    "Url": "/places/de/landi-muehlethurnen",
+    "UrlDirect": "http://www.landithun.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 90 21"
+  },
+  {
+    "Id": 1193,
+    "Name": "LANDI Niederscherli",
+    "Ort": "Niederscherli",
+    "PLZ": "3145",
+    "Strasse": "Eyboden ",
+    "StreetNumber": "8",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.886645,
+      "Longitude": 7.389066
+    },
+    "Url": "/places/de/landi-niederscherli",
+    "UrlDirect": "http://www.landischwarzwasser.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 97 00"
+  },
+  {
+    "Id": 1194,
+    "Name": "LANDI Schwarzenburg",
+    "Ort": "Schwarzenburg",
+    "PLZ": "3150",
+    "Strasse": "Ringgenmatt ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.821861,
+      "Longitude": 7.348112
+    },
+    "Url": "/places/de/landi-schwarzenburg",
+    "UrlDirect": "http://www.landischwarzwasser.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 97 40"
+  },
+  {
+    "Id": 1195,
+    "Name": "LANDI Thörishaus",
+    "Ort": "Thörishaus",
+    "PLZ": "3174",
+    "Strasse": "Freiburgstrasse",
+    "StreetNumber": "888",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.902962,
+      "Longitude": 7.356202
+    },
+    "Url": "/places/de/landi-thoerishaus",
+    "UrlDirect": "http://www.landibernwest.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 26 52"
+  },
+  {
+    "Id": 1197,
+    "Name": "LANDI Laupen",
+    "Ort": "Laupen",
+    "PLZ": "3177",
+    "Strasse": "Murtenstrasse",
+    "StreetNumber": "28",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.907415,
+      "Longitude": 7.235935
+    },
+    "Url": "/places/de/landi-laupen",
+    "UrlDirect": "http://www.landibernwest.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 26 00"
+  },
+  {
+    "Id": 1198,
+    "Name": "LANDI Ueberstorf",
+    "Ort": "Ueberstorf",
+    "PLZ": "3182",
+    "Strasse": "Flamattstrasse ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.866033,
+      "Longitude": 7.309749
+    },
+    "Url": "/places/de/landi-ueberstorf",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 11:30",
+    "Phone": "031 741 02 79"
+  },
+  {
+    "Id": 1199,
+    "Name": "LANDI Gurmels",
+    "Ort": "Gurmels",
+    "PLZ": "3212",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "126",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.894256,
+      "Longitude": 7.172203
+    },
+    "Url": "/places/de/landi-gurmels",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "026 674 12 74"
+  },
+  {
+    "Id": 1200,
+    "Name": "LANDI Messen",
+    "Ort": "Messen",
+    "PLZ": "3254",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "43",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.091734,
+      "Longitude": 7.452945
+    },
+    "Url": "/places/de/landi-messen",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 12:00, 13:00 - 16:00",
+    "Phone": "031 765 50 66"
+  },
+  {
+    "Id": 1202,
+    "Name": "LANDI Dotzigen",
+    "Ort": "Dotzigen",
+    "PLZ": "3293",
+    "Strasse": "Schulriederstrasse ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.119324,
+      "Longitude": 7.33636
+    },
+    "Url": "/places/de/landi-dotzigen",
+    "UrlDirect": "www.landibueren.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 54 80"
+  },
+  {
+    "Id": 1203,
+    "Name": "LANDI Büren ",
+    "Ort": "Büren an der Aare",
+    "PLZ": "3294",
+    "Strasse": "Güterweg ",
+    "StreetNumber": "11",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.137905,
+      "Longitude": 7.368184
+    },
+    "Url": "/places/de/landi-bueren",
+    "UrlDirect": "www.landibueren.ch",
+    "OeffnungszeitenToday": "08:00 - 11:00",
+    "Phone": "058 476 54 70"
+  },
+  {
+    "Id": 1204,
+    "Name": "LANDI Leuzigen",
+    "Ort": "Leuzigen",
+    "PLZ": "3297",
+    "Strasse": "Herrengasse ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.174356,
+      "Longitude": 7.46178
+    },
+    "Url": "/places/de/landi-leuzigen",
+    "UrlDirect": "www.landibueren.ch",
+    "OeffnungszeitenToday": "08:00 - 11:45",
+    "Phone": "058 476 54 90"
+  },
+  {
+    "Id": 1205,
+    "Name": "LANDI Jegenstorf",
+    "Ort": "Jegenstorf",
+    "PLZ": "3303",
+    "Strasse": "Bernstrasse ",
+    "StreetNumber": "62",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.043493,
+      "Longitude": 7.503781
+    },
+    "Url": "/places/de/landi-jegenstorf",
+    "UrlDirect": "http://www.landimoossee.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 96 20"
+  },
+  {
+    "Id": 1208,
+    "Name": "LANDI Herzogenbuchsee",
+    "Ort": "Herzogenbuchsee",
+    "PLZ": "3360",
+    "Strasse": "Byfangstrasse ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.19569,
+      "Longitude": 7.698909
+    },
+    "Url": "/places/de/landi-herzogenbuchsee",
+    "UrlDirect": "http://www.landibuchsi.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 27 40"
+  },
+  {
+    "Id": 1210,
+    "Name": "LANDI Hasle-Rüegsau",
+    "Ort": "Hasle-Rüegsau",
+    "PLZ": "3415",
+    "Strasse": "Dicki",
+    "StreetNumber": "196",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.015996,
+      "Longitude": 7.656434
+    },
+    "Url": "/places/de/landi-hasle-rueegsau",
+    "UrlDirect": "http://www.landiregionaemme.ch/",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "058 476 92 92 "
+  },
+  {
+    "Id": 1212,
+    "Name": "LANDI Koppigen",
+    "Ort": "Koppigen",
+    "PLZ": "3425",
+    "Strasse": "Alchenstorfstrasse ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.130598,
+      "Longitude": 7.614949
+    },
+    "Url": "/places/de/landi-koppigen",
+    "UrlDirect": "http://www.landikowy.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "058 476 94 46"
+  },
+  {
+    "Id": 1213,
+    "Name": "LANDI Utzenstorf",
+    "Ort": "Utzenstorf",
+    "PLZ": "3427",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "33",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.128701,
+      "Longitude": 7.553981
+    },
+    "Url": "/places/de/landi-utzenstorf",
+    "UrlDirect": "www.landibucheggberg-landshut.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 91 40"
+  },
+  {
+    "Id": 1215,
+    "Name": "LANDI Sumiswald",
+    "Ort": "Sumiswald",
+    "PLZ": "3455",
+    "Strasse": "Wylergasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.024954,
+      "Longitude": 7.739745
+    },
+    "Url": "/places/de/landi-sumiswald",
+    "UrlDirect": "http://www.landiregionaemme.ch/",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "058 476 93 10"
+  },
+  {
+    "Id": 1216,
+    "Name": "LANDI Wynigen",
+    "Ort": "Wynigen",
+    "PLZ": "3472",
+    "Strasse": "Tannwaldmoosweg ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.103946,
+      "Longitude": 7.66068
+    },
+    "Url": "/places/de/landi-wynigen",
+    "UrlDirect": "http://www.landikowy.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "058 476 94 45"
+  },
+  {
+    "Id": 1217,
+    "Name": "LANDI Riedtwil",
+    "Ort": "Riedtwil",
+    "PLZ": "3475",
+    "Strasse": "Hauptstrasse",
+    "StreetNumber": "43",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.140918,
+      "Longitude": 7.694546
+    },
+    "Url": "/places/de/landi-riedtwil",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 17:00",
+    "Phone": "062 968 11 64"
+  },
+  {
+    "Id": 1221,
+    "Name": "LANDI Eggiwil",
+    "Ort": "Eggiwil",
+    "PLZ": "3537",
+    "Strasse": "Beisatzgasse ",
+    "StreetNumber": "480 A",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.875497,
+      "Longitude": 7.796794
+    },
+    "Url": "/places/de/landi-eggiwil",
+    "UrlDirect": "http://www.landiregionlangnau.ch",
+    "OeffnungszeitenToday": "07:30 - 11:30",
+    "Phone": "058 434 30 22"
+  },
+  {
+    "Id": 1222,
+    "Name": "LANDI Röthenbach",
+    "Ort": "Röthenbach i. E.",
+    "PLZ": "3538",
+    "Strasse": "Dorf ",
+    "StreetNumber": "7k",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.852844,
+      "Longitude": 7.741079
+    },
+    "Url": "/places/de/landi-roethenbach",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "06:30 - 16:00",
+    "Phone": "058 434 30 25"
+  },
+  {
+    "Id": 1223,
+    "Name": "LANDI Steffisburg",
+    "Ort": "Steffisburg",
+    "PLZ": "3612",
+    "Strasse": "Glockentalstrasse ",
+    "StreetNumber": "50",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.772842,
+      "Longitude": 7.630928
+    },
+    "Url": "/places/de/landi-steffisburg",
+    "UrlDirect": "http://www.landithun.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 90 40"
+  },
+  {
+    "Id": 1224,
+    "Name": "LANDI  Thierachern",
+    "Ort": "Thierachern",
+    "PLZ": "3634",
+    "Strasse": "Blumensteinstrasse ",
+    "StreetNumber": "28",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.751753,
+      "Longitude": 7.565522
+    },
+    "Url": "/places/de/landi-thierachern",
+    "UrlDirect": "http://www.landiniesen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "033 346 86 86"
+  },
+  {
+    "Id": 1226,
+    "Name": "LANDI Linden",
+    "Ort": "Linden",
+    "PLZ": "3673",
+    "Strasse": "Industrieweg ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.84791,
+      "Longitude": 7.68219
+    },
+    "Url": "/places/de/landi-linden",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 17:00",
+    "Phone": "058 476 90 30"
+  },
+  {
+    "Id": 1227,
+    "Name": "LANDI Spiez",
+    "Ort": "Spiez",
+    "PLZ": "3700",
+    "Strasse": "Faulenbachweg ",
+    "StreetNumber": "70",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.68152,
+      "Longitude": 7.67082
+    },
+    "Url": "/places/de/landi-spiez",
+    "UrlDirect": "http://www.landiniesen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "033 654 41 51"
+  },
+  {
+    "Id": 1229,
+    "Name": "LANDI Frutigen",
+    "Ort": "Frutigen",
+    "PLZ": "3714",
+    "Strasse": "Christoph Kunz-Olympiastrasse ",
+    "StreetNumber": "18",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.589723,
+      "Longitude": 7.65736
+    },
+    "Url": "/places/de/landi-frutigen",
+    "UrlDirect": "http://www.landijungfrau.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 34 00"
+  },
+  {
+    "Id": 1230,
+    "Name": "LANDI Oey",
+    "Ort": "Oey",
+    "PLZ": "3753",
+    "Strasse": "Unterdorfweg ",
+    "StreetNumber": "7",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.660226,
+      "Longitude": 7.578339
+    },
+    "Url": "/places/de/landi-oey",
+    "UrlDirect": "www.landithun.ch",
+    "OeffnungszeitenToday": "07:30 - 17:00",
+    "Phone": "058 476 90 06"
+  },
+  {
+    "Id": 1231,
+    "Name": "LANDI Därstetten",
+    "Ort": "Därstetten",
+    "PLZ": "3763",
+    "Strasse": "Lochmatte ",
+    "StreetNumber": "357M",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.659309,
+      "Longitude": 7.494256
+    },
+    "Url": "/places/de/landi-daerstetten",
+    "UrlDirect": "http://www.landisimmental-saanenland.ch",
+    "OeffnungszeitenToday": "06:00 - 17:00",
+    "Phone": "033 783 12 25"
+  },
+  {
+    "Id": 1233,
+    "Name": "LANDI Lenk",
+    "Ort": "Lenk im Simmental",
+    "PLZ": "3775",
+    "Strasse": "Lenkstrasse ",
+    "StreetNumber": "74",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.466543,
+      "Longitude": 7.439708
+    },
+    "Url": "/places/de/landi-lenk",
+    "UrlDirect": "http://www.landisimmental-saanenland.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "033 733 10 42"
+  },
+  {
+    "Id": 1234,
+    "Name": "LANDI Gstaad",
+    "Ort": "Gstaad",
+    "PLZ": "3780",
+    "Strasse": "Güterstrasse ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.474786,
+      "Longitude": 7.284593
+    },
+    "Url": "/places/de/landi-gstaad",
+    "UrlDirect": "http://www.landisimmental-saanenland.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "033 748 66 33"
+  },
+  {
+    "Id": 1235,
+    "Name": "LANDI Interlaken",
+    "Ort": "Interlaken",
+    "PLZ": "3800",
+    "Strasse": "Untere Bönigstrasse ",
+    "StreetNumber": "50",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.688732,
+      "Longitude": 7.878991
+    },
+    "Url": "/places/de/landi-interlaken",
+    "UrlDirect": "http://www.landijungfrau.ch",
+    "OeffnungszeitenToday": "06:00 - 20:00",
+    "Phone": "058 434 34 43"
+  },
+  {
+    "Id": 1236,
+    "Name": "LANDI Grindelwald ",
+    "Ort": "Grindelwald",
+    "PLZ": "3818",
+    "Strasse": "Wärgistalstrasse ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.618811,
+      "Longitude": 8.02522
+    },
+    "Url": "/places/de/landi-grindelwald",
+    "UrlDirect": "http://www.landigrindelwald.ch",
+    "OeffnungszeitenToday": "07:30 - 18:00",
+    "Phone": "058 476 99 99"
+  },
+  {
+    "Id": 1237,
+    "Name": "LANDI Brienz",
+    "Ort": "Brienz",
+    "PLZ": "3855",
+    "Strasse": "Stägmattgasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.744768,
+      "Longitude": 8.059392
+    },
+    "Url": "/places/de/landi-brienz",
+    "UrlDirect": "http://www.landijungfrau.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 34 20"
+  },
+  {
+    "Id": 1238,
+    "Name": "LANDI Meiringen",
+    "Ort": "Meiringen",
+    "PLZ": "3860",
+    "Strasse": "Liechtenenstrasse ",
+    "StreetNumber": "18",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.728178,
+      "Longitude": 8.172086
+    },
+    "Url": "/places/de/landi-meiringen",
+    "UrlDirect": "http://www.landijungfrau.ch",
+    "OeffnungszeitenToday": "07:00 - 20:00",
+    "Phone": "058 434 34 60"
+  },
+  {
+    "Id": 1239,
+    "Name": "LANDI Visp-Eyholz",
+    "Ort": "Eyholz",
+    "PLZ": "3930",
+    "Strasse": "Kantonsstrasse ",
+    "StreetNumber": "50",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.29553,
+      "Longitude": 7.91387
+    },
+    "Url": "/places/de/landi-visp-eyholz",
+    "UrlDirect": "http://www.landioberwallis.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 98 30"
+  },
+  {
+    "Id": 1240,
+    "Name": "LANDI  Aesch",
+    "Ort": "Aesch BL",
+    "PLZ": "4147",
+    "Strasse": "Nordring ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.479508,
+      "Longitude": 7.590437
+    },
+    "Url": "/places/de/landi-aesch",
+    "UrlDirect": "http://www.landireba.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 32 00"
+  },
+  {
+    "Id": 1241,
+    "Name": "LANDI Laufen",
+    "Ort": "Laufen",
+    "PLZ": "4242",
+    "Strasse": "Güterstrasse ",
+    "StreetNumber": "27",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.415601,
+      "Longitude": 7.501936
+    },
+    "Url": "/places/de/landi-laufen",
+    "UrlDirect": "http://www.landireba.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 32 60"
+  },
+  {
+    "Id": 1242,
+    "Name": "LANDI Rheinfelden-Ost",
+    "Ort": "Rheinfelden",
+    "PLZ": "4310",
+    "Strasse": "Untere Rütenenstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.56338,
+      "Longitude": 7.827587
+    },
+    "Url": "/places/de/landi-rheinfelden-ost",
+    "UrlDirect": "http://www.landifrila.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 51 60"
+  },
+  {
+    "Id": 1243,
+    "Name": "LANDI Bubendorf",
+    "Ort": "Bubendorf",
+    "PLZ": "4416",
+    "Strasse": "Grüngenstrasse ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.456481,
+      "Longitude": 7.743148
+    },
+    "Url": "/places/de/landi-bubendorf",
+    "UrlDirect": "http://www.landireba.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 95 60"
+  },
+  {
+    "Id": 1244,
+    "Name": "LANDI Oberdorf",
+    "Ort": "Oberdorf BL",
+    "PLZ": "4436",
+    "Strasse": "Hintere Gasse",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.394767,
+      "Longitude": 7.750383
+    },
+    "Url": "/places/de/landi-oberdorf",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:00 - 16:00",
+    "Phone": "061 961 05 28"
+  },
+  {
+    "Id": 1246,
+    "Name": "LANDI Gelterkinden",
+    "Ort": "Gelterkinden",
+    "PLZ": "4460",
+    "Strasse": "Sissacherstrasse ",
+    "StreetNumber": "40",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.464435,
+      "Longitude": 7.843887
+    },
+    "Url": "/places/de/landi-gelterkinden",
+    "UrlDirect": "http://www.landireba.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 95 00"
+  },
+  {
+    "Id": 1248,
+    "Name": "LANDI Lohn-Ammannsegg",
+    "Ort": "Lohn-Ammannsegg",
+    "PLZ": "4573",
+    "Strasse": "beim Bahnhof ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.162994,
+      "Longitude": 7.526958
+    },
+    "Url": "/places/de/landi-lohn-ammannsegg",
+    "UrlDirect": "www.landibucheggberg-landshut.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 30 40"
+  },
+  {
+    "Id": 1249,
+    "Name": "LANDI Wangen bei Olten",
+    "Ort": "Wangen bei Olten",
+    "PLZ": "4612",
+    "Strasse": "Dorfstrasse ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.342189,
+      "Longitude": 7.863067
+    },
+    "Url": "/places/de/landi-wangen-bei-olten",
+    "UrlDirect": "http://www.landibgt.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 25 60"
+  },
+  {
+    "Id": 1251,
+    "Name": "LANDI Winznau",
+    "Ort": "Winznau",
+    "PLZ": "4652",
+    "Strasse": "Burmattstrasse",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.364358,
+      "Longitude": 7.928846
+    },
+    "Url": "/places/de/landi-winznau",
+    "UrlDirect": "http://www.landiaarauwest.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "062 285 30 60"
+  },
+  {
+    "Id": 1253,
+    "Name": "LANDI Oensingen",
+    "Ort": "Oensingen",
+    "PLZ": "4702",
+    "Strasse": "Äussere Klus ",
+    "StreetNumber": "39",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.296471,
+      "Longitude": 7.704274
+    },
+    "Url": "/places/de/landi-oensingen",
+    "UrlDirect": "http://www.landibgt.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 25 30"
+  },
+  {
+    "Id": 1254,
+    "Name": "LANDI Zofingen",
+    "Ort": "Zofingen",
+    "PLZ": "4800",
+    "Strasse": "Obere Mühle",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.282009,
+      "Longitude": 7.93993
+    },
+    "Url": "/places/de/landi-zofingen",
+    "UrlDirect": "http://www.landizofingen.ch/",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 29 80"
+  },
+  {
+    "Id": 1255,
+    "Name": "LANDI Melchnau",
+    "Ort": "Melchnau",
+    "PLZ": "4917",
+    "Strasse": "Dorfstrasse ",
+    "StreetNumber": "34",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.186674,
+      "Longitude": 7.848468
+    },
+    "Url": "/places/de/landi-melchnau",
+    "UrlDirect": "http://www.landimelchnau-buetzberg.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 52 10"
+  },
+  {
+    "Id": 1256,
+    "Name": "LANDI Bützberg",
+    "Ort": "Bützberg",
+    "PLZ": "4922",
+    "Strasse": "Zürichstrasse ",
+    "StreetNumber": "32",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.214303,
+      "Longitude": 7.750333
+    },
+    "Url": "/places/de/landi-buetzberg",
+    "UrlDirect": "http://www.landimelchnau-buetzberg.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 52 70"
+  },
+  {
+    "Id": 1257,
+    "Name": "LANDI Schwarzenbach",
+    "Ort": "Schwarzenbach",
+    "PLZ": "4953",
+    "Strasse": "Bernstrasse ",
+    "StreetNumber": "62",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.109257,
+      "Longitude": 7.830612
+    },
+    "Url": "/places/de/landi-schwarzenbach",
+    "UrlDirect": "http://www.landiregionhuttwil.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 59 60"
+  },
+  {
+    "Id": 1258,
+    "Name": "LANDI Eriswil ",
+    "Ort": "Eriswil",
+    "PLZ": "4952",
+    "Strasse": "Bahnhofsplatz ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.080324,
+      "Longitude": 7.84962
+    },
+    "Url": "/places/de/landi-eriswil",
+    "UrlDirect": "http://www.landieriswil.ch/",
+    "OeffnungszeitenToday": "07:30 - 11:30",
+    "Phone": "058 476 96 96"
+  },
+  {
+    "Id": 1259,
+    "Name": "LANDI Oberes Fricktal ",
+    "Ort": "Wölflinswil",
+    "PLZ": "5063",
+    "Strasse": "Oeligasse",
+    "StreetNumber": "94",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.461335,
+      "Longitude": 7.99833
+    },
+    "Url": "/places/de/landi-oberes-fricktal",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:00 - 12:00",
+    "Phone": "062 877 11 60 / 079 404 01 80"
+  },
+  {
+    "Id": 1260,
+    "Name": "LANDI Gipf-Oberfrick",
+    "Ort": "Gipf-Oberfrick",
+    "PLZ": "5073",
+    "Strasse": "Gerenweg ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.501349,
+      "Longitude": 8.008837
+    },
+    "Url": "/places/de/landi-gipf-oberfrick",
+    "UrlDirect": "http://www.landifrila.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 51 40"
+  },
+  {
+    "Id": 1261,
+    "Name": "LANDI Eiken",
+    "Ort": "Eiken",
+    "PLZ": "5074",
+    "Strasse": "Laufenburgerstrasse ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.533729,
+      "Longitude": 7.987871
+    },
+    "Url": "/places/de/landi-eiken",
+    "UrlDirect": "http://www.landifrila.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 51 50"
+  },
+  {
+    "Id": 1262,
+    "Name": "LANDI Oberrohrdorf",
+    "Ort": "Oberrohrdorf",
+    "PLZ": "5452",
+    "Strasse": "Bergstrasse ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.418672,
+      "Longitude": 8.317641
+    },
+    "Url": "/places/de/landi-oberrohrdorf",
+    "UrlDirect": "http://www.landifreiamt.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 92 70"
+  },
+  {
+    "Id": 1263,
+    "Name": "LANDI Lenzburg",
+    "Ort": "Lenzburg",
+    "PLZ": "5600",
+    "Strasse": "Sägestrasse ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.392678,
+      "Longitude": 8.179975
+    },
+    "Url": "/places/de/landi-lenzburg",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "062 886 93 60"
+  },
+  {
+    "Id": 1264,
+    "Name": "LANDI Muri",
+    "Ort": "Muri AG",
+    "PLZ": "5630",
+    "Strasse": "Luzernerstrasse ",
+    "StreetNumber": "65",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.266624,
+      "Longitude": 8.348773
+    },
+    "Url": "/places/de/landi-muri",
+    "UrlDirect": "http://www.landifreiamt.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 92 50"
+  },
+  {
+    "Id": 1265,
+    "Name": "LANDI Sins",
+    "Ort": "Sins",
+    "PLZ": "5643",
+    "Strasse": "Bahnhofstrasse",
+    "StreetNumber": "32",
+    "Zusatz": "LANDI Sins-Zugerland",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.187067,
+      "Longitude": 8.397622
+    },
+    "Url": "/places/de/landi-sins-landi-sins-zugerland",
+    "UrlDirect": "http://www.landisinszugerland.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 30 99"
+  },
+  {
+    "Id": 1266,
+    "Name": "LANDI Seengen",
+    "Ort": "Seengen",
+    "PLZ": "5707",
+    "Strasse": "Poststrasse ",
+    "StreetNumber": "18",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.324852,
+      "Longitude": 8.206711
+    },
+    "Url": "/places/de/landi-seengen",
+    "UrlDirect": "http://www.landihallwilersee.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "062 777 17 86"
+  },
+  {
+    "Id": 1267,
+    "Name": "LANDI Gränichen",
+    "Ort": "Gränichen",
+    "PLZ": "5722",
+    "Strasse": "Kirchenfeldstrasse ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.355141,
+      "Longitude": 8.099693
+    },
+    "Url": "/places/de/landi-graenichen",
+    "UrlDirect": "http://www.landiunteresseetal.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "062 842 13 42"
+  },
+  {
+    "Id": 1268,
+    "Name": "LANDI Kölliken",
+    "Ort": "Kölliken",
+    "PLZ": "5742",
+    "Strasse": "Hardfeld",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.33139,
+      "Longitude": 8.037441
+    },
+    "Url": "/places/de/landi-koelliken",
+    "UrlDirect": "http://www.landiaarauwest.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "062 737 10 00"
+  },
+  {
+    "Id": 1270,
+    "Name": "LANDI Rothenburg",
+    "Ort": "Rothenburg",
+    "PLZ": "6023",
+    "Strasse": "Stationsstrasse ",
+    "StreetNumber": "82",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.094049,
+      "Longitude": 8.253522
+    },
+    "Url": "/places/de/landi-rothenburg",
+    "UrlDirect": "http://www.landisempach-emmen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 21 00"
+  },
+  {
+    "Id": 1271,
+    "Name": "LANDI Horw",
+    "Ort": "Horw",
+    "PLZ": "6048",
+    "Strasse": "Altsagenstrasse ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.010699,
+      "Longitude": 8.305958
+    },
+    "Url": "/places/de/landi-horw",
+    "UrlDirect": "http://www.landipilatus.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 21 90"
+  },
+  {
+    "Id": 1272,
+    "Name": "LANDI Sarnen",
+    "Ort": "Sarnen ",
+    "PLZ": "6060",
+    "Strasse": "Kernserstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.895936,
+      "Longitude": 8.248026
+    },
+    "Url": "/places/de/landi-sarnen",
+    "UrlDirect": "http://www.landiunterwalden.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "058 476 56 80"
+  },
+  {
+    "Id": 1273,
+    "Name": "LANDI Malters",
+    "Ort": "Malters",
+    "PLZ": "6102",
+    "Strasse": "Mettlenmatte ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.038455,
+      "Longitude": 8.180914
+    },
+    "Url": "/places/de/landi-malters",
+    "UrlDirect": "http://www.landipilatus.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 21 50"
+  },
+  {
+    "Id": 1274,
+    "Name": "LANDI Wolhusen",
+    "Ort": "Wolhusen",
+    "PLZ": "6110",
+    "Strasse": "Entlebucherstrasse ",
+    "StreetNumber": "81",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.053232,
+      "Longitude": 8.069134
+    },
+    "Url": "/places/de/landi-wolhusen",
+    "UrlDirect": "http://www.landipilatus.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 22 00"
+  },
+  {
+    "Id": 1275,
+    "Name": "LANDI Willisau",
+    "Ort": "Willisau",
+    "PLZ": "6130",
+    "Strasse": "Ettiswilerstrasse",
+    "StreetNumber": "30",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.126775,
+      "Longitude": 7.997909
+    },
+    "Url": "/places/de/landi-willisau",
+    "UrlDirect": "www.landiluzernwest.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 56 23"
+  },
+  {
+    "Id": 1278,
+    "Name": "LANDI Schüpfheim",
+    "Ort": "Schüpfheim",
+    "PLZ": "6170",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "15",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.95361,
+      "Longitude": 8.019475
+    },
+    "Url": "/places/de/landi-schuepfheim",
+    "UrlDirect": "http://www.landiluzernwest.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 56 24"
+  },
+  {
+    "Id": 1279,
+    "Name": "LANDI Escholzmatt",
+    "Ort": "Escholzmatt",
+    "PLZ": "6182",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "8",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.914119,
+      "Longitude": 7.936396
+    },
+    "Url": "/places/de/landi-escholzmatt",
+    "UrlDirect": "http://www.landiwiggen.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "041 486 11 44"
+  },
+  {
+    "Id": 1280,
+    "Name": "LANDI Sempach Station",
+    "Ort": "Sempach Station",
+    "PLZ": "6203",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "27",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.115933,
+      "Longitude": 8.199864
+    },
+    "Url": "/places/de/landi-sempach-station",
+    "UrlDirect": "http://www.landisempach-emmen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 20 60"
+  },
+  {
+    "Id": 1281,
+    "Name": "LANDI Buttisholz",
+    "Ort": "Buttisholz",
+    "PLZ": "6018",
+    "Strasse": "Guglern",
+    "StreetNumber": "34",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.107372,
+      "Longitude": 8.084556
+    },
+    "Url": "/places/de/landi-buttisholz",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 56 48"
+  },
+  {
+    "Id": 1283,
+    "Name": "LANDI Oberkirch",
+    "Ort": "Oberkirch",
+    "PLZ": "6208",
+    "Strasse": "Schellenrain",
+    "StreetNumber": "11a",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.16298,
+      "Longitude": 8.104407
+    },
+    "Url": "/places/de/landi-oberkirch",
+    "UrlDirect": "www.landisursee.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 28 50"
+  },
+  {
+    "Id": 1284,
+    "Name": "LANDI Beromünster",
+    "Ort": "Beromünster",
+    "PLZ": "6215",
+    "Strasse": "Aargauerstrasse",
+    "StreetNumber": "11",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.207801,
+      "Longitude": 8.19074
+    },
+    "Url": "/places/de/landi-beromuenster",
+    "UrlDirect": "www.landisursee.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "058 434 29 55"
+  },
+  {
+    "Id": 1285,
+    "Name": "LANDI Schötz",
+    "Ort": "Schötz",
+    "PLZ": "6247",
+    "Strasse": "Schürmatt ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.17063,
+      "Longitude": 7.98932
+    },
+    "Url": "/places/de/landi-schoetz",
+    "UrlDirect": "www.landiluzernwest.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 56 25"
+  },
+  {
+    "Id": 1286,
+    "Name": "LANDI Reiden",
+    "Ort": "Reiden",
+    "PLZ": "6260",
+    "Strasse": "Dörflimatte ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.245581,
+      "Longitude": 7.960132
+    },
+    "Url": "/places/de/landi-reiden",
+    "UrlDirect": "www.landiluzernwest.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 56 27"
+  },
+  {
+    "Id": 1287,
+    "Name": "LANDI Hochdorf",
+    "Ort": "Hochdorf",
+    "PLZ": "6280",
+    "Strasse": "Huwilstrasse ",
+    "StreetNumber": "7",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.170519,
+      "Longitude": 8.283809
+    },
+    "Url": "/places/de/landi-hochdorf",
+    "UrlDirect": "http://www.landioberseetal.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "041 914 00 53"
+  },
+  {
+    "Id": 1290,
+    "Name": "LANDI Rotkreuz",
+    "Ort": "Rotkreuz",
+    "PLZ": "6343",
+    "Strasse": "Chäsimatt",
+    "StreetNumber": "1",
+    "Zusatz": "LANDI Sins-Zugerland",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.14226,
+      "Longitude": 8.42777
+    },
+    "Url": "/places/de/landi-rotkreuz-landi-sins-zugerland",
+    "UrlDirect": "http://www.landisinszugerland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 30 85"
+  },
+  {
+    "Id": 1291,
+    "Name": "LANDI Stansstad",
+    "Ort": "Stansstad",
+    "PLZ": "6362",
+    "Strasse": "Unter Sagi ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.973627,
+      "Longitude": 8.347147
+    },
+    "Url": "/places/de/landi-stansstad",
+    "UrlDirect": "http://www.landiunterwalden.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 56 70"
+  },
+  {
+    "Id": 1292,
+    "Name": "LANDI Küssnacht ",
+    "Ort": "Küssnacht am Rigi",
+    "PLZ": "6403",
+    "Strasse": "Zugerstrasse ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.092536,
+      "Longitude": 8.448915
+    },
+    "Url": "/places/de/landi-kuessnacht",
+    "UrlDirect": "http://www.landikuessnacht.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "041 854 50 50"
+  },
+  {
+    "Id": 1293,
+    "Name": "LANDI Schwyz",
+    "Ort": "Seewen SZ",
+    "PLZ": "6423",
+    "Strasse": "Steinbislin ",
+    "StreetNumber": "19",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.03293,
+      "Longitude": 8.63156
+    },
+    "Url": "/places/de/landi-schwyz",
+    "UrlDirect": "http://www.landischwyz.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 80 10"
+  },
+  {
+    "Id": 1295,
+    "Name": "LANDI Landquart",
+    "Ort": "Landquart",
+    "PLZ": "7302",
+    "Strasse": "Löserstrasse ",
+    "StreetNumber": "11",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.955743,
+      "Longitude": 9.561715
+    },
+    "Url": "/places/de/landi-landquart",
+    "UrlDirect": "http://www.landigraubuenden.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 433 72 00"
+  },
+  {
+    "Id": 1296,
+    "Name": "LANDI Thusis",
+    "Ort": "Thusis",
+    "PLZ": "7430",
+    "Strasse": "Äussere Heinzenbergstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.703209,
+      "Longitude": 9.442178
+    },
+    "Url": "/places/de/landi-thusis",
+    "UrlDirect": "http://www.landigraubuenden.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 433 72 72"
+  },
+  {
+    "Id": 1297,
+    "Name": "LANDI Maur",
+    "Ort": "Maur",
+    "PLZ": "8124",
+    "Strasse": "Rellikonstrasse ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.339929,
+      "Longitude": 8.670614
+    },
+    "Url": "/places/de/landi-maur",
+    "UrlDirect": "http://www.landimaur.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "044 980 01 50"
+  },
+  {
+    "Id": 1298,
+    "Name": "LANDI Hallau",
+    "Ort": "Hallau",
+    "PLZ": "8215",
+    "Strasse": "Grüntalstrasse",
+    "StreetNumber": "7",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.69573,
+      "Longitude": 8.463428
+    },
+    "Url": "/places/de/landi-hallau",
+    "UrlDirect": "http://www.landi-hallau.ch",
+    "OeffnungszeitenToday": "08:00 - 14:00",
+    "Phone": "052 681 36 83"
+  },
+  {
+    "Id": 1299,
+    "Name": "LANDI Wilchingen ",
+    "Ort": "Wilchingen",
+    "PLZ": "8217",
+    "Strasse": "Hauptstrasse",
+    "StreetNumber": "85",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.669639,
+      "Longitude": 8.463955
+    },
+    "Url": "/places/de/landi-wilchingen",
+    "UrlDirect": "http://www.landiwilchingen.ch",
+    "OeffnungszeitenToday": "07:30 - 14:00",
+    "Phone": "052 681 21 18"
+  },
+  {
+    "Id": 1300,
+    "Name": "LANDI Beringen",
+    "Ort": "Beringen",
+    "PLZ": "8222",
+    "Strasse": "Werkstrasse",
+    "StreetNumber": "15",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.694494,
+      "Longitude": 8.572819
+    },
+    "Url": "/places/de/landi-beringen",
+    "UrlDirect": "http://www.landiberingen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "052 687 67 67"
+  },
+  {
+    "Id": 1302,
+    "Name": "LANDI Eschenz",
+    "Ort": "Eschenz",
+    "PLZ": "8264",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "15",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.6532,
+      "Longitude": 8.862184
+    },
+    "Url": "/places/de/landi-eschenz",
+    "UrlDirect": "http://www.landiweinland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 94 80"
+  },
+  {
+    "Id": 1303,
+    "Name": "LANDI Illnau",
+    "Ort": "Illnau",
+    "PLZ": "8308",
+    "Strasse": "Usterstrasse ",
+    "StreetNumber": "27",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.407264,
+      "Longitude": 8.723632
+    },
+    "Url": "/places/de/landi-illnau",
+    "UrlDirect": "http://www.landizola.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 38 37"
+  },
+  {
+    "Id": 1304,
+    "Name": "LANDI Pfäffikon",
+    "Ort": "Pfäffikon ZH",
+    "PLZ": "8330",
+    "Strasse": "Kempttalstrasse ",
+    "StreetNumber": "90",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.371287,
+      "Longitude": 8.776189
+    },
+    "Url": "/places/de/landi-pfaeffikon",
+    "UrlDirect": "http://www.landizola.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 38 00"
+  },
+  {
+    "Id": 1306,
+    "Name": "LANDI Bäretswil",
+    "Ort": "Bäretswil",
+    "PLZ": "8344",
+    "Strasse": "Adetswilerstrasse",
+    "StreetNumber": "16a",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.337979,
+      "Longitude": 8.854284
+    },
+    "Url": "/places/de/landi-baeretswil",
+    "UrlDirect": "http://www.landi-bachtel.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "044 939 29 55"
+  },
+  {
+    "Id": 1307,
+    "Name": "LANDI Räterschen",
+    "Ort": "Elsau",
+    "PLZ": "8352",
+    "Strasse": "St. Gallerstrasse ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.500292,
+      "Longitude": 8.78631
+    },
+    "Url": "/places/de/landi-raeterschen",
+    "UrlDirect": "www.landieulachtal.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 23 60"
+  },
+  {
+    "Id": 1308,
+    "Name": "LANDI Neftenbach",
+    "Ort": "Neftenbach",
+    "PLZ": "8413",
+    "Strasse": "Zürichstrasse ",
+    "StreetNumber": "44",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.521548,
+      "Longitude": 8.657463
+    },
+    "Url": "/places/de/landi-neftenbach",
+    "UrlDirect": "http://www.landiweinland.ch/",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "052 305 09 60"
+  },
+  {
+    "Id": 1309,
+    "Name": "LANDI Embrach",
+    "Ort": "Embrach",
+    "PLZ": "8424",
+    "Strasse": "Lagerhausweg ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.500799,
+      "Longitude": 8.597599
+    },
+    "Url": "/places/de/landi-embrach",
+    "UrlDirect": "http://www.landizueriunterland.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "044 865 07 04"
+  },
+  {
+    "Id": 1311,
+    "Name": "LANDI Weisslingen",
+    "Ort": "Weisslingen",
+    "PLZ": "8484",
+    "Strasse": "Dorfstrasse ",
+    "StreetNumber": "9",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.429983,
+      "Longitude": 8.764427
+    },
+    "Url": "/places/de/landi-weisslingen",
+    "UrlDirect": "http://www.wisligzaeller.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "052 384 11 05"
+  },
+  {
+    "Id": 1312,
+    "Name": "LANDI Turbenthal",
+    "Ort": "Turbenthal",
+    "PLZ": "8488",
+    "Strasse": "St. Gallerstrasse ",
+    "StreetNumber": "18",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.434328,
+      "Longitude": 8.85332
+    },
+    "Url": "/places/de/landi-turbenthal",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/landi-bachtel",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 57 77"
+  },
+  {
+    "Id": 1313,
+    "Name": "LANDI Hörhausen",
+    "Ort": "Hörhausen",
+    "PLZ": "8507",
+    "Strasse": "Hauptstrasse",
+    "StreetNumber": "21",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.632641,
+      "Longitude": 8.971179
+    },
+    "Url": "/places/de/landi-hoerhausen",
+    "UrlDirect": "http://www.landiseeruecken.ch/",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "052 763 26 44"
+  },
+  {
+    "Id": 1315,
+    "Name": "LANDI Wiesendangen",
+    "Ort": "Wiesendangen",
+    "PLZ": "8542",
+    "Strasse": "Spycherweg",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.521013,
+      "Longitude": 8.790196
+    },
+    "Url": "/places/de/landi-wiesendangen",
+    "UrlDirect": "http://www.landieulachtal.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 23 80"
+  },
+  {
+    "Id": 1316,
+    "Name": "LANDI Islikon",
+    "Ort": "Islikon",
+    "PLZ": "8546",
+    "Strasse": "Tegelbachstrasse ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.546143,
+      "Longitude": 8.841924
+    },
+    "Url": "/places/de/landi-islikon",
+    "UrlDirect": "http://www.landithula.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "052 369 20 34"
+  },
+  {
+    "Id": 1318,
+    "Name": "LANDI Altnau",
+    "Ort": "Altnau",
+    "PLZ": "8595",
+    "Strasse": "Wuhrwiesenstrasse ",
+    "StreetNumber": "7",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.61162,
+      "Longitude": 9.26039
+    },
+    "Url": "/places/de/landi-altnau",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "071 695 19 34"
+  },
+  {
+    "Id": 1319,
+    "Name": "LANDI Volketswil",
+    "Ort": "Hegnau-Volketswil",
+    "PLZ": "8604",
+    "Strasse": "Tolackerstrasse ",
+    "StreetNumber": "30",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.392116,
+      "Longitude": 8.674772
+    },
+    "Url": "/places/de/landi-volketswil",
+    "UrlDirect": "http://www.landizola.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 38 70"
+  },
+  {
+    "Id": 1320,
+    "Name": "LANDI Wetzikon",
+    "Ort": "Wetzikon",
+    "PLZ": "8620",
+    "Strasse": "Motorenstrasse ",
+    "StreetNumber": "87",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.332071,
+      "Longitude": 8.795845
+    },
+    "Url": "/places/de/landi-wetzikon",
+    "UrlDirect": "http://www.landiwetzikon.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "043 488 10 30"
+  },
+  {
+    "Id": 1322,
+    "Name": "LANDI Dürnten",
+    "Ort": "Dürnten",
+    "PLZ": "8635",
+    "Strasse": "Kreuzstrasse",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.273966,
+      "Longitude": 8.827669
+    },
+    "Url": "/places/de/landi-duernten",
+    "UrlDirect": "http://www.landi-bachtel.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "055 251 27 47"
+  },
+  {
+    "Id": 1323,
+    "Name": "LANDI Wald",
+    "Ort": "Wald",
+    "PLZ": "8636",
+    "Strasse": "Rosenthalstrasse",
+    "StreetNumber": "7a",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.272913,
+      "Longitude": 8.910263
+    },
+    "Url": "/places/de/landi-wald",
+    "UrlDirect": "http://www.landi-bachtel.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 97 97"
+  },
+  {
+    "Id": 1324,
+    "Name": "LANDI Meilen",
+    "Ort": "Meilen",
+    "PLZ": "8706",
+    "Strasse": "Gruebstrasse ",
+    "StreetNumber": "93",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.269011,
+      "Longitude": 8.663107
+    },
+    "Url": "/places/de/landi-meilen",
+    "UrlDirect": "http://www.landimz.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "043 844 01 72"
+  },
+  {
+    "Id": 1325,
+    "Name": "LANDI Stäfa",
+    "Ort": "Stäfa",
+    "PLZ": "8712",
+    "Strasse": "Laubisrütistrasse ",
+    "StreetNumber": "40",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.238278,
+      "Longitude": 8.745632
+    },
+    "Url": "/places/de/landi-staefa",
+    "UrlDirect": "http://www.landizuerichsee.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "044 927 30 70"
+  },
+  {
+    "Id": 1326,
+    "Name": "LANDI Schänis",
+    "Ort": "Schänis",
+    "PLZ": "8718",
+    "Strasse": "Landistrasse ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.174635,
+      "Longitude": 9.054938
+    },
+    "Url": "/places/de/landi-schaenis",
+    "UrlDirect": "http://www.landilinth.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "055 619 60 00"
+  },
+  {
+    "Id": 1328,
+    "Name": "LANDI Neuhaus",
+    "Ort": "Neuhaus",
+    "PLZ": "8732",
+    "Strasse": "Tunnelstrasse ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.237905,
+      "Longitude": 8.950819
+    },
+    "Url": "/places/de/landi-neuhaus",
+    "UrlDirect": "http://www.landisee.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 61 60"
+  },
+  {
+    "Id": 1329,
+    "Name": "LANDI Wädenswil",
+    "Ort": "Wädenswil",
+    "PLZ": "8820",
+    "Strasse": "Industriestrasse ",
+    "StreetNumber": "15",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.23629,
+      "Longitude": 8.6376
+    },
+    "Url": "/places/de/landi-waedenswil",
+    "UrlDirect": "http://www.landizimmerberg.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "043 833 00 73"
+  },
+  {
+    "Id": 1330,
+    "Name": "LANDI Einsiedeln ",
+    "Ort": "Einsiedeln",
+    "PLZ": "8840",
+    "Strasse": "Alpstrasse ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.136273,
+      "Longitude": 8.746412
+    },
+    "Url": "/places/de/landi-einsiedeln",
+    "UrlDirect": "http://www.landieinsiedeln.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 63 80"
+  },
+  {
+    "Id": 1331,
+    "Name": "LANDI Wangen",
+    "Ort": "Wangen",
+    "PLZ": "8855",
+    "Strasse": "Hämmerli",
+    "StreetNumber": "15",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.193551,
+      "Longitude": 8.88001
+    },
+    "Url": "/places/de/landi-wangen",
+    "UrlDirect": "http://www.bvlandimarch.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "055 450 60 47"
+  },
+  {
+    "Id": 1332,
+    "Name": "LANDI Flums",
+    "Ort": "Flums",
+    "PLZ": "8890",
+    "Strasse": "Lochrietstrasse ",
+    "StreetNumber": "22",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.099492,
+      "Longitude": 9.351334
+    },
+    "Url": "/places/de/landi-flums",
+    "UrlDirect": "http://www.landisarganserland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 60 60"
+  },
+  {
+    "Id": 1334,
+    "Name": "LANDI Obfelden ",
+    "Ort": "Obfelden",
+    "PLZ": "8912",
+    "Strasse": "Muristrasse ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.26997,
+      "Longitude": 8.43076
+    },
+    "Url": "/places/de/landi-obfelden",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": " 058 476 82 25"
+  },
+  {
+    "Id": 1335,
+    "Name": "LANDI Dietikon",
+    "Ort": "Dietikon",
+    "PLZ": "8953",
+    "Strasse": "Schöneggstrasse ",
+    "StreetNumber": "47",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.399955,
+      "Longitude": 8.407724
+    },
+    "Url": "/places/de/landi-dietikon",
+    "UrlDirect": "http://www.landifurt-limmattal.ch",
+    "OeffnungszeitenToday": "08:00 - 16:30",
+    "Phone": "058 476 55 77"
+  },
+  {
+    "Id": 1336,
+    "Name": "LANDI Widen",
+    "Ort": "Widen",
+    "PLZ": "8967",
+    "Strasse": "Allmend ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.368266,
+      "Longitude": 8.364975
+    },
+    "Url": "/places/de/landi-widen",
+    "UrlDirect": "http://www.landifreiamt.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 92 60"
+  },
+  {
+    "Id": 1337,
+    "Name": "LANDI Appenzell",
+    "Ort": "Appenzell",
+    "PLZ": "9050",
+    "Strasse": "Mettlenstrasse",
+    "StreetNumber": "10",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.33471,
+      "Longitude": 9.404065
+    },
+    "Url": "/places/de/landi-appenzell-laveba-landi-ag",
+    "UrlDirect": "www.appenzell.lavebalandi.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 68 00"
+  },
+  {
+    "Id": 1338,
+    "Name": "LANDI Herisau",
+    "Ort": "Herisau",
+    "PLZ": "9100",
+    "Strasse": "St. Gallerstr. ",
+    "StreetNumber": "25",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.391674,
+      "Longitude": 9.275732
+    },
+    "Url": "/places/de/landi-herisau-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-herisau",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 65 55"
+  },
+  {
+    "Id": 1339,
+    "Name": "LANDI Urnäsch",
+    "Ort": "Urnäsch",
+    "PLZ": "9107",
+    "Strasse": "Herisauerstrasse ",
+    "StreetNumber": "28",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.319812,
+      "Longitude": 9.287069
+    },
+    "Url": "/places/de/landi-urnaesch-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-und-prima-urnaesch",
+    "OeffnungszeitenToday": "07:00 - 17:00",
+    "Phone": "058 400 62 40"
+  },
+  {
+    "Id": 1340,
+    "Name": "LANDI Schönengrund",
+    "Ort": "Schönengrund",
+    "PLZ": "9105",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "10",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.32792,
+      "Longitude": 9.221119
+    },
+    "Url": "/places/de/landi-schoenengrund-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-und-prima-schoenengrund",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 62 20"
+  },
+  {
+    "Id": 1341,
+    "Name": "LANDI Gossau",
+    "Ort": "Gossau",
+    "PLZ": "9200",
+    "Strasse": "Bischofszellerstrasse ",
+    "StreetNumber": "126",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.42689,
+      "Longitude": 9.24176
+    },
+    "Url": "/places/de/landi-gossau-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-gossau",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 64 50"
+  },
+  {
+    "Id": 1342,
+    "Name": "LANDI Bischofszell",
+    "Ort": "Bischofszell",
+    "PLZ": "9220",
+    "Strasse": "Ibergstrasse ",
+    "StreetNumber": "26",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.502062,
+      "Longitude": 9.237923
+    },
+    "Url": "/places/de/landi-bischofszell-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-bischofszell",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 69 20"
+  },
+  {
+    "Id": 1343,
+    "Name": "LANDI Wittenbach",
+    "Ort": "Wittenbach",
+    "PLZ": "9300",
+    "Strasse": "Erlackerstrasse ",
+    "StreetNumber": "14",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.459656,
+      "Longitude": 9.385917
+    },
+    "Url": "/places/de/landi-wittenbach-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-wittenbach",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 64 40 "
+  },
+  {
+    "Id": 1344,
+    "Name": "LANDI Arbon",
+    "Ort": "Arbon",
+    "PLZ": "9320",
+    "Strasse": "Im Pünt",
+    "StreetNumber": "2",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.520012,
+      "Longitude": 9.400123
+    },
+    "Url": "/places/de/landi-arbon-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-arbon",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "058 400 69 02"
+  },
+  {
+    "Id": 1345,
+    "Name": "LANDI Mörschwil",
+    "Ort": "Mörschwil",
+    "PLZ": "9402",
+    "Strasse": "St.Gallerstrasse",
+    "StreetNumber": "17",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.466929,
+      "Longitude": 9.421281
+    },
+    "Url": "/places/de/landi-moerschwil",
+    "UrlDirect": "http://www.landigoldachmoerschwil.ch",
+    "OeffnungszeitenToday": "07:00 - 16:00",
+    "Phone": "058 400 60 20"
+  },
+  {
+    "Id": 1346,
+    "Name": "LANDI Goldach",
+    "Ort": "Goldach",
+    "PLZ": "9403",
+    "Strasse": "Sulzstrasse ",
+    "StreetNumber": "21",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.473071,
+      "Longitude": 9.469245
+    },
+    "Url": "/places/de/landi-goldach",
+    "UrlDirect": "http://www.landigoldachmoerschwil.ch",
+    "OeffnungszeitenToday": "07:00 - 17:00",
+    "Phone": "058 400 60 00"
+  },
+  {
+    "Id": 1347,
+    "Name": "LANDI St. Margrethen ",
+    "Ort": "St. Margrethen",
+    "PLZ": "9430",
+    "Strasse": "Industriestrasse ",
+    "StreetNumber": "43",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.447187,
+      "Longitude": 9.649177
+    },
+    "Url": "/places/de/landi-st-margrethen-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-landi-st-margrethen",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 63 00"
+  },
+  {
+    "Id": 1348,
+    "Name": "LANDI Altstätten",
+    "Ort": "Altstätten",
+    "PLZ": "9450",
+    "Strasse": "Oberrieterstrasse ",
+    "StreetNumber": "87",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.363442,
+      "Longitude": 9.555826
+    },
+    "Url": "/places/de/landi-altstaetten",
+    "UrlDirect": "http://www.landialtstaetten.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "071 757 50 70"
+  },
+  {
+    "Id": 1349,
+    "Name": "LANDI Buchs (SG)",
+    "Ort": "Buchs (SG)",
+    "PLZ": "9470",
+    "Strasse": "Mühleäulistrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.164139,
+      "Longitude": 9.479556
+    },
+    "Url": "/places/de/landi-buchs-(sg)-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-buchs",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 65 00"
+  },
+  {
+    "Id": 1350,
+    "Name": "LANDI Wartau",
+    "Ort": "Trübbach",
+    "PLZ": "9477",
+    "Strasse": "Fährhüttenstr. ",
+    "StreetNumber": "9",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.073936,
+      "Longitude": 9.486372
+    },
+    "Url": "/places/de/landi-wartau",
+    "UrlDirect": "http://www.landiwartau.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "081 750 28 28"
+  },
+  {
+    "Id": 1352,
+    "Name": "LANDI Zuzwil",
+    "Ort": "Zuzwil",
+    "PLZ": "9524",
+    "Strasse": "Henauerstrasse",
+    "StreetNumber": "5",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.468565,
+      "Longitude": 9.108921
+    },
+    "Url": "/places/de/landi-zuzwil-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-zuzwil",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 62 70"
+  },
+  {
+    "Id": 1353,
+    "Name": "LANDI Bazenheid",
+    "Ort": "Bazenheid",
+    "PLZ": "9602",
+    "Strasse": "Neue Industriestrasse ",
+    "StreetNumber": "77",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.420847,
+      "Longitude": 9.068997
+    },
+    "Url": "/places/de/landi-bazenheid-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-bazenheid",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 61 30"
+  },
+  {
+    "Id": 1354,
+    "Name": "LANDI Matzingen ",
+    "Ort": "Matzingen",
+    "PLZ": "9548",
+    "Strasse": "St. Gallerstrasse ",
+    "StreetNumber": "50",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.514891,
+      "Longitude": 8.936602
+    },
+    "Url": "/places/de/landi-matzingen",
+    "UrlDirect": "http://www.landithula.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "052 369 40 05"
+  },
+  {
+    "Id": 1355,
+    "Name": "LANDI  Märwil",
+    "Ort": "Märwil",
+    "PLZ": "9562",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "30",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.53284,
+      "Longitude": 9.06705
+    },
+    "Url": "/places/de/landi-maerwil-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-maerwil",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "058 400 68 90"
+  },
+  {
+    "Id": 1356,
+    "Name": "LANDI Bütschwil",
+    "Ort": "Bütschwil",
+    "PLZ": "9606",
+    "Strasse": "Alte Strasse",
+    "StreetNumber": "7a",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.358678,
+      "Longitude": 9.071493
+    },
+    "Url": "/places/de/landi-buetschwil",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "058 400 69 70"
+  },
+  {
+    "Id": 1357,
+    "Name": "LANDI Mosnang",
+    "Ort": "Mosnang",
+    "PLZ": "9607",
+    "Strasse": "Bütschwilerstrasse",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.362566,
+      "Longitude": 9.040746
+    },
+    "Url": "/places/de/landi-mosnang",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 12:00",
+    "Phone": "058 400 69 77"
+  },
+  {
+    "Id": 1358,
+    "Name": "LANDI Ganterschwil Genossenschaft",
+    "Ort": "Ganterschwil",
+    "PLZ": "9608",
+    "Strasse": "Toggenburgerstrasse ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.38055,
+      "Longitude": 9.08899
+    },
+    "Url": "/places/de/landi-ganterschwil-genossenschaft",
+    "UrlDirect": "http://www.landiganterschwil.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "071 983 17 40"
+  },
+  {
+    "Id": 1359,
+    "Name": "LANDI Wattwil",
+    "Ort": "Wattwil",
+    "PLZ": "9630",
+    "Strasse": "Floozstrasse ",
+    "StreetNumber": "7",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.315823,
+      "Longitude": 9.083563
+    },
+    "Url": "/places/de/landi-wattwil-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-wattwil",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 64 00"
+  },
+  {
+    "Id": 1362,
+    "Name": "LANDI Marly",
+    "Ort": "Marly",
+    "PLZ": "1723",
+    "Strasse": "Route de Chésalles ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.771747,
+      "Longitude": 7.16049
+    },
+    "Url": "/places/de/landi-marly",
+    "UrlDirect": "http://www.landimolesonsarine.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "026 435 31 15"
+  },
+  {
+    "Id": 1363,
+    "Name": "LANDI Unterstammheim",
+    "Ort": "Unterstammheim",
+    "PLZ": "8476",
+    "Strasse": "Amtacker ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.630607,
+      "Longitude": 8.786573
+    },
+    "Url": "/places/de/landi-unterstammheim",
+    "UrlDirect": "http://www.landiseebachtal.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "052 744 10 40"
+  },
+  {
+    "Id": 1365,
+    "Name": "LANDI Reinach",
+    "Ort": "Reinach AG",
+    "PLZ": "5734",
+    "Strasse": "Mattenstrasse ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.262471,
+      "Longitude": 8.172461
+    },
+    "Url": "/places/de/landi-reinach",
+    "UrlDirect": "http://www.landihallwilersee.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "062 765 17 17"
+  },
+  {
+    "Id": 1366,
+    "Name": "LANDI Unterägeri",
+    "Ort": "Unterägeri",
+    "PLZ": "6314",
+    "Strasse": "Gewerbestrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "LANDI Sins-Zugerland",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.135155,
+      "Longitude": 8.574503
+    },
+    "Url": "/places/de/landi-unteraegeri-landi-sins-zugerland",
+    "UrlDirect": "http://www.landisinszugerland.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 30 90"
+  },
+  {
+    "Id": 1367,
+    "Name": "LANDI Mitlödi",
+    "Ort": "Mitlödi",
+    "PLZ": "8756",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "95",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.017162,
+      "Longitude": 9.08124
+    },
+    "Url": "/places/de/landi-mitloedi-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-mitloedi",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 63 50"
+  },
+  {
+    "Id": 1368,
+    "Name": "LANDI Flamatt",
+    "Ort": "Flamatt",
+    "PLZ": "3175",
+    "Strasse": "Bernstrasse ",
+    "StreetNumber": "34B",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.889954,
+      "Longitude": 7.318165
+    },
+    "Url": "/places/de/landi-flamatt",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "031 741 26 26"
+  },
+  {
+    "Id": 1370,
+    "Name": "LANDI Mönchaltorf",
+    "Ort": "Mönchaltorf",
+    "PLZ": "8617",
+    "Strasse": "Mettlenbachstrasse ",
+    "StreetNumber": "11",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.303025,
+      "Longitude": 8.722049
+    },
+    "Url": "/places/de/landi-moenchaltorf",
+    "UrlDirect": "http://www.landizola.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 37 50"
+  },
+  {
+    "Id": 1371,
+    "Name": "LANDI Schattdorf",
+    "Ort": "Schattdorf",
+    "PLZ": "6467",
+    "Strasse": "Umfahrungsstrasse ",
+    "StreetNumber": "24",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.857691,
+      "Longitude": 8.639242
+    },
+    "Url": "/places/de/landi-schattdorf",
+    "UrlDirect": "http://www.landiuri.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 33 60"
+  },
+  {
+    "Id": 1372,
+    "Name": "LANDI Buchrain ",
+    "Ort": "Buchrain",
+    "PLZ": "6033",
+    "Strasse": "Schiltwaldstrasse ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.10561,
+      "Longitude": 8.34318
+    },
+    "Url": "/places/de/landi-buchrain",
+    "UrlDirect": "http://www.landibuchrain.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "041 440 56 30"
+  },
+  {
+    "Id": 1373,
+    "Name": "LANDI Hallwil",
+    "Ort": "Hallwil",
+    "PLZ": "5705",
+    "Strasse": "Dürrenäscherweg ",
+    "StreetNumber": "413",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.330629,
+      "Longitude": 8.173776
+    },
+    "Url": "/places/de/landi-hallwil",
+    "UrlDirect": "http://www.landiunteresseetal.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "062 767 59 59"
+  },
+  {
+    "Id": 1374,
+    "Name": "LANDI Kerzers",
+    "Ort": "Ried bei Kerzers",
+    "PLZ": "3216",
+    "Strasse": "Brüggfeld ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.966776,
+      "Longitude": 7.189327
+    },
+    "Url": "/places/de/landi-kerzers",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 36 50"
+  },
+  {
+    "Id": 1376,
+    "Name": "LANDI Zollbrück",
+    "Ort": "Zollbrück",
+    "PLZ": "3436",
+    "Strasse": "Dorfstrasse ",
+    "StreetNumber": "47",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.977801,
+      "Longitude": 7.740063
+    },
+    "Url": "/places/de/landi-zollbrueck",
+    "UrlDirect": "http://www.landiregionlangnau.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 30 02"
+  },
+  {
+    "Id": 1377,
+    "Name": "LANDI Brenzikofen",
+    "Ort": "Brenzikofen",
+    "PLZ": "3671",
+    "Strasse": "Stationsstrasse",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.817274,
+      "Longitude": 7.612905
+    },
+    "Url": "/places/de/landi-brenzikofen",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:00 - 16:00",
+    "Phone": "031 771 03 82"
+  },
+  {
+    "Id": 1379,
+    "Name": "LANDI Subingen",
+    "Ort": "Subingen",
+    "PLZ": "4553",
+    "Strasse": "Gewerbestrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.195178,
+      "Longitude": 7.608422
+    },
+    "Url": "/places/de/landi-subingen",
+    "UrlDirect": "http://www.landibuchsi.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 27 50"
+  },
+  {
+    "Id": 1380,
+    "Name": "LANDI Gebenstorf",
+    "Ort": "Gebenstorf",
+    "PLZ": "5412",
+    "Strasse": "Hornblick ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.489181,
+      "Longitude": 8.243133
+    },
+    "Url": "/places/de/landi-gebenstorf",
+    "UrlDirect": "http://www.landiwasserschloss.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 93 70"
+  },
+  {
+    "Id": 1381,
+    "Name": "LANDI Schneisingen",
+    "Ort": "Schneisingen",
+    "PLZ": "5425",
+    "Strasse": "Zimmereiweg",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.517625,
+      "Longitude": 8.366965
+    },
+    "Url": "/places/de/landi-schneisingen",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 12:00, 14:00 - 16:00",
+    "Phone": "056 241 10 77"
+  },
+  {
+    "Id": 1383,
+    "Name": "LANDI Triengen",
+    "Ort": "Triengen",
+    "PLZ": "6234",
+    "Strasse": "Kantonsstrasse",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.227923,
+      "Longitude": 8.084436
+    },
+    "Url": "/places/de/landi-triengen",
+    "UrlDirect": "http://www.landisursee.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 28 70"
+  },
+  {
+    "Id": 1384,
+    "Name": "LANDI Schleinikon",
+    "Ort": "Schleinikon",
+    "PLZ": "8165",
+    "Strasse": "Dorfstrasse ",
+    "StreetNumber": "18",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.497591,
+      "Longitude": 8.39525
+    },
+    "Url": "/places/de/landi-schleinikon",
+    "UrlDirect": "http://www.landisurb.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 54 10"
+  },
+  {
+    "Id": 1386,
+    "Name": "LANDI Weiach",
+    "Ort": "Weiach",
+    "PLZ": "8187",
+    "Strasse": "Kaiserstuhlerstrasse ",
+    "StreetNumber": "44",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.562645,
+      "Longitude": 8.428235
+    },
+    "Url": "/places/de/landi-weiach",
+    "UrlDirect": "http://www.landisurb.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 54 40"
+  },
+  {
+    "Id": 1387,
+    "Name": "LANDI Eglisau",
+    "Ort": "Eglisau",
+    "PLZ": "8193",
+    "Strasse": "Schaffhauserstrasse ",
+    "StreetNumber": "41",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.58118,
+      "Longitude": 8.516448
+    },
+    "Url": "/places/de/landi-eglisau",
+    "UrlDirect": "http://www.landizueriunterland.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "Eglisau\t044 869 90 30"
+  },
+  {
+    "Id": 1388,
+    "Name": "LANDI Schleitheim",
+    "Ort": "Schleitheim",
+    "PLZ": "8226",
+    "Strasse": "Randenstrasse",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.749936,
+      "Longitude": 8.488128
+    },
+    "Url": "/places/de/landi-schleitheim",
+    "UrlDirect": "http://www.landi-schleitheim.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "052 680 11 43"
+  },
+  {
+    "Id": 1389,
+    "Name": "LANDI Diessenhofen",
+    "Ort": "Diessenhofen",
+    "PLZ": "8253",
+    "Strasse": "Basadingerstrasse ",
+    "StreetNumber": "50a",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.681348,
+      "Longitude": 8.750079
+    },
+    "Url": "/places/de/landi-diessenhofen",
+    "UrlDirect": "www.landiweinland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 94 50 "
+  },
+  {
+    "Id": 1390,
+    "Name": "LANDI Ermatingen",
+    "Ort": "Ermatingen",
+    "PLZ": "8272",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "10",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.66939,
+      "Longitude": 9.085727
+    },
+    "Url": "/places/de/landi-ermatingen",
+    "UrlDirect": "http://landimittelthurgau.ch",
+    "OeffnungszeitenToday": "08:00 - 15:00",
+    "Phone": "058 476 50 70"
+  },
+  {
+    "Id": 1391,
+    "Name": "LANDI Dussnang",
+    "Ort": "Dussnang",
+    "PLZ": "8374",
+    "Strasse": "Tanneggerstrasse ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.430575,
+      "Longitude": 8.956641
+    },
+    "Url": "/places/de/landi-dussnang",
+    "UrlDirect": "http://www.landithula.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "071 973 99 02"
+  },
+  {
+    "Id": 1393,
+    "Name": "LANDI Hüttwilen ",
+    "Ort": "Hüttwilen",
+    "PLZ": "8536",
+    "Strasse": "im Winkel ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.607565,
+      "Longitude": 8.869455
+    },
+    "Url": "/places/de/landi-huettwilen",
+    "UrlDirect": "http://www.landiseebachtal.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "052 748 00 48"
+  },
+  {
+    "Id": 1394,
+    "Name": "LANDI Märstetten",
+    "Ort": "Märstetten",
+    "PLZ": "8560",
+    "Strasse": "Dorfstrasse ",
+    "StreetNumber": "18",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.592298,
+      "Longitude": 9.069207
+    },
+    "Url": "/places/de/landi-maerstetten",
+    "UrlDirect": "http://www.landimittelthurgau.ch",
+    "OeffnungszeitenToday": "07:30 - 12:00",
+    "Phone": "058 476 50 40"
+  },
+  {
+    "Id": 1395,
+    "Name": "LANDI Berg",
+    "Ort": "Berg TG",
+    "PLZ": "8572",
+    "Strasse": "Leberenstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.579313,
+      "Longitude": 9.166252
+    },
+    "Url": "/places/de/landi-berg",
+    "UrlDirect": "http://www.landiberg.ch",
+    "OeffnungszeitenToday": "07:30 - 16:00",
+    "Phone": "071 638 00 38"
+  },
+  {
+    "Id": 1396,
+    "Name": "LANDI Siegershausen",
+    "Ort": "Siegershausen",
+    "PLZ": "8573",
+    "Strasse": "Alterswilerstrasse ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.61034,
+      "Longitude": 9.16795
+    },
+    "Url": "/places/de/landi-siegershausen",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 12:00",
+    "Phone": "058 476 50 30"
+  },
+  {
+    "Id": 1397,
+    "Name": "LANDI Amriswil",
+    "Ort": "Amriswil",
+    "PLZ": "8580",
+    "Strasse": "Schrofenstrasse ",
+    "StreetNumber": "20",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.546463,
+      "Longitude": 9.274505
+    },
+    "Url": "/places/de/landi-amriswil",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "071 410 23 30"
+  },
+  {
+    "Id": 1398,
+    "Name": "LANDI Oberbüren ",
+    "Ort": "Oberbüren",
+    "PLZ": "9245",
+    "Strasse": "Sandackerstrasse ",
+    "StreetNumber": "24",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.450053,
+      "Longitude": 9.156375
+    },
+    "Url": "/places/de/landi-oberbueren",
+    "UrlDirect": "http://www.landioberbueren.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "071 955 66 77"
+  },
+  {
+    "Id": 1399,
+    "Name": "LANDI Kreuzlingen",
+    "Ort": "Kreuzlingen",
+    "PLZ": "8280",
+    "Strasse": "Tägerwilerstrasse ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.655601,
+      "Longitude": 9.163186
+    },
+    "Url": "/places/de/landi-kreuzlingen",
+    "UrlDirect": "http://www.landimittelthurgau.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 93 40"
+  },
+  {
+    "Id": 1400,
+    "Name": "LANDI Klingnau",
+    "Ort": "Klingnau",
+    "PLZ": "5313",
+    "Strasse": "Zelgli ",
+    "StreetNumber": "6",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.595001,
+      "Longitude": 8.234343
+    },
+    "Url": "/places/de/landi-klingnau",
+    "UrlDirect": "http://www.landisurb.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 54 20"
+  },
+  {
+    "Id": 1492,
+    "Name": "LANDI Ins",
+    "Ort": "Ins",
+    "PLZ": "3232",
+    "Strasse": "Rämismatte ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.996143,
+      "Longitude": 7.107507
+    },
+    "Url": "/places/de/landi-ins",
+    "UrlDirect": "http://www.landiseeland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 36 80"
+  },
+  {
+    "Id": 1493,
+    "Name": "LANDI Aarberg",
+    "Ort": "Aarberg",
+    "PLZ": "3270",
+    "Strasse": "Chräjeninsel ",
+    "StreetNumber": "16",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.051763,
+      "Longitude": 7.281477
+    },
+    "Url": "/places/de/landi-aarberg",
+    "UrlDirect": "http://www.landiseeland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 37 00"
+  },
+  {
+    "Id": 1494,
+    "Name": "LANDI Murten",
+    "Ort": "Murten",
+    "PLZ": "3280",
+    "Strasse": "Freiburgstrasse ",
+    "StreetNumber": "79",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.92087,
+      "Longitude": 7.10875
+    },
+    "Url": "/places/de/landi-murten",
+    "UrlDirect": "http://www.landiseeland.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 434 36 60"
+  },
+  {
+    "Id": 1495,
+    "Name": "LANDI Wasen",
+    "Ort": "Wasen",
+    "PLZ": "3457",
+    "Strasse": "Bahnhofstrasse",
+    "StreetNumber": "34",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.043922,
+      "Longitude": 7.790325
+    },
+    "Url": "/places/de/landi-wasen",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 12:00, 13:00 - 16:00",
+    "Phone": "058 476 93 20"
+  },
+  {
+    "Id": 1498,
+    "Name": "LANDI Adlikon",
+    "Ort": "Adlikon",
+    "PLZ": "8106",
+    "Strasse": "Breitestrasse ",
+    "StreetNumber": "15",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.449203,
+      "Longitude": 8.464539
+    },
+    "Url": "/places/de/landi-adlikon",
+    "UrlDirect": "http://www.landifurt-limmattal.ch",
+    "OeffnungszeitenToday": "08:00 - 16:30",
+    "Phone": "058 476 55 55 "
+  },
+  {
+    "Id": 1499,
+    "Name": "LANDI Schaffhausen",
+    "Ort": "Schaffhausen",
+    "PLZ": "8207",
+    "Strasse": "Gennersbrunnerstrasse",
+    "StreetNumber": "65",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.71747,
+      "Longitude": 8.663233
+    },
+    "Url": "/places/de/landi-schaffhausen",
+    "UrlDirect": "http://www.gvs-markt.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "052 631 18 70"
+  },
+  {
+    "Id": 1500,
+    "Name": "LANDI Nürensdorf",
+    "Ort": "Nürensdorf",
+    "PLZ": "8309",
+    "Strasse": "Eigentalstrasse ",
+    "StreetNumber": "51",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.453335,
+      "Longitude": 8.635291
+    },
+    "Url": "/places/de/landi-nuerensdorf",
+    "UrlDirect": "http://www.landizueriunterland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "044 836 52 10"
+  },
+  {
+    "Id": 1502,
+    "Name": "LANDI Weinfelden",
+    "Ort": "Weinfelden",
+    "PLZ": "8570",
+    "Strasse": "Oberfeldstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.560238,
+      "Longitude": 9.13166
+    },
+    "Url": "/places/de/landi-weinfelden",
+    "UrlDirect": "http://www.landimittelthurgau.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "058 476 50 50"
+  },
+  {
+    "Id": 1503,
+    "Name": "LANDI Leimbach",
+    "Ort": "Leimbach",
+    "PLZ": "8584",
+    "Strasse": "Hauptstrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.559103,
+      "Longitude": 9.186834
+    },
+    "Url": "/places/de/landi-leimbach",
+    "UrlDirect": "http://www.landimittelthurgau.ch",
+    "OeffnungszeitenToday": "07:30 - 12:00",
+    "Phone": "058 476 50 00"
+  },
+  {
+    "Id": 1504,
+    "Name": "LANDI Teufen",
+    "Ort": "Teufen",
+    "PLZ": "9053",
+    "Strasse": "Landhausstrasse ",
+    "StreetNumber": "6",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.387648,
+      "Longitude": 9.39217
+    },
+    "Url": "/places/de/landi-teufen-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-teufen",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 62 50"
+  },
+  {
+    "Id": 1505,
+    "Name": "LANDI Neukirch",
+    "Ort": "Neukirch an der Thur",
+    "PLZ": "9217",
+    "Strasse": "Käsereistr. ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.51119,
+      "Longitude": 9.172455
+    },
+    "Url": "/places/de/landi-neukirch",
+    "UrlDirect": "http://www.landimittelthurgau.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "058 476 50 20"
+  },
+  {
+    "Id": 1506,
+    "Name": "LANDI Flawil",
+    "Ort": "Niederglatt SG",
+    "PLZ": "9240",
+    "Strasse": "Lehmgrueb ",
+    "StreetNumber": "1274",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.41956,
+      "Longitude": 9.16775
+    },
+    "Url": "/places/de/landi-flawil-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-flawil",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 400 69 50"
+  },
+  {
+    "Id": 1507,
+    "Name": "LANDI Höri",
+    "Ort": "Höri",
+    "PLZ": "8181",
+    "Strasse": "Wehntalerstrasse",
+    "StreetNumber": "38",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.509102,
+      "Longitude": 8.512915
+    },
+    "Url": "/places/de/landi-hoeri",
+    "UrlDirect": "http://www.landizueriunterland.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "044 217 70 20"
+  },
+  {
+    "Id": 1508,
+    "Name": "LANDI Marthalen",
+    "Ort": "Marthalen",
+    "PLZ": "8460",
+    "Strasse": "Güeterstrass ",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.634977,
+      "Longitude": 8.655014
+    },
+    "Url": "/places/de/landi-marthalen",
+    "UrlDirect": "http://www.landiweinland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 57 20"
+  },
+  {
+    "Id": 1510,
+    "Name": "LANDI Assens",
+    "Ort": "Assens",
+    "PLZ": "1042",
+    "Strasse": "Rte d’Yverdon",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.614106,
+      "Longitude": 6.621399
+    },
+    "Url": "/places/de/landi-assens",
+    "UrlDirect": "http://www.landiassens.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "021 886 16 72"
+  },
+  {
+    "Id": 1527,
+    "Name": "LANDI Payerne",
+    "Ort": "Payerne",
+    "PLZ": "1530",
+    "Strasse": "Charrière d'Estavayer ",
+    "StreetNumber": "21",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.827226,
+      "Longitude": 6.928811
+    },
+    "Url": "/places/de/landi-payerne",
+    "UrlDirect": "www.landicentrebroye.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 53 00"
+  },
+  {
+    "Id": 1530,
+    "Name": "LANDI Buchberg",
+    "Ort": "Buchberg",
+    "PLZ": "8454",
+    "Strasse": "Winkelweg",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.57347,
+      "Longitude": 8.560149
+    },
+    "Url": "/places/de/landi-buchberg",
+    "UrlDirect": "http://www.landibuchberg.ch",
+    "OeffnungszeitenToday": "09:00 - 15:00",
+    "Phone": "044 867 39 24"
+  },
+  {
+    "Id": 1537,
+    "Name": "LANDI Surselva",
+    "Ort": "Schluein",
+    "PLZ": "7151",
+    "Strasse": "Via Isla ",
+    "StreetNumber": "40",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.779076,
+      "Longitude": 9.218908
+    },
+    "Url": "/places/de/landi-surselva",
+    "UrlDirect": "http://www.landigraubuenden.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 433 72 82"
+  },
+  {
+    "Id": 1539,
+    "Name": "LANDI Wiggen ",
+    "Ort": "Wiggen",
+    "PLZ": "6192",
+    "Strasse": "Unterwiggen ",
+    "StreetNumber": "2",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.90092,
+      "Longitude": 7.900415
+    },
+    "Url": "/places/de/landi-wiggen",
+    "UrlDirect": "http://www.landiwiggen.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "041 486 12 51"
+  },
+  {
+    "Id": 1540,
+    "Name": "LANDI Trubschachen",
+    "Ort": "Trubschachen",
+    "PLZ": "3555",
+    "Strasse": "Bahnhofstrasse ",
+    "StreetNumber": "4",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.922921,
+      "Longitude": 7.847073
+    },
+    "Url": "/places/de/landi-trubschachen",
+    "UrlDirect": "http://www.landiwiggen.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "034 495 51 62"
+  },
+  {
+    "Id": 1541,
+    "Name": "LANDI Schangnau",
+    "Ort": "Schangnau",
+    "PLZ": "6197",
+    "Strasse": "Fischbach ",
+    "StreetNumber": "109",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.827772,
+      "Longitude": 7.865971
+    },
+    "Url": "/places/de/landi-schangnau",
+    "UrlDirect": "www.landiwiggen.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "034 493 35 50"
+  },
+  {
+    "Id": 1542,
+    "Name": "LANDI Lonay",
+    "Ort": "Lonay",
+    "PLZ": "1027",
+    "Strasse": "Chemin d'Etraz ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.52657,
+      "Longitude": 6.526713
+    },
+    "Url": "/places/de/landi-lonay",
+    "UrlDirect": "http://landilacote.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 22 62"
+  },
+  {
+    "Id": 1544,
+    "Name": "LANDI Belprahon",
+    "Ort": "Belprahon",
+    "PLZ": "2744",
+    "Strasse": "Dos les Terras",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.279368,
+      "Longitude": 7.397713
+    },
+    "Url": "/places/de/landi-belprahon",
+    "UrlDirect": "http://www.landiarcjura.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 16 35"
+  },
+  {
+    "Id": 1562,
+    "Name": "LANDI Bellmund",
+    "Ort": "Bellmund",
+    "PLZ": "2564",
+    "Strasse": "Keltenstrasse ",
+    "StreetNumber": "47",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.110581,
+      "Longitude": 7.225549
+    },
+    "Url": "/places/de/landi-bellmund",
+    "UrlDirect": "www.landiseeland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 20 00"
+  },
+  {
+    "Id": 1564,
+    "Name": "LANDI Zweisimmen",
+    "Ort": "Zweisimmen",
+    "PLZ": "3770",
+    "Strasse": "Thunstrasse ",
+    "StreetNumber": "29H",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.559279,
+      "Longitude": 7.37425
+    },
+    "Url": "/places/de/landi-zweisimmen",
+    "UrlDirect": "http://www.landisimmental-saanenland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "033 722 02 05"
+  },
+  {
+    "Id": 1566,
+    "Name": "LANDI Entlebuch",
+    "Ort": "Entlebuch",
+    "PLZ": "6162",
+    "Strasse": "Blumattstrasse",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.993194,
+      "Longitude": 8.060908
+    },
+    "Url": "/places/de/landi-entlebuch",
+    "UrlDirect": "http://www.landiwiggen.ch",
+    "OeffnungszeitenToday": "08:00 - 16:00",
+    "Phone": "041 486 01 25"
+  },
+  {
+    "Id": 1571,
+    "Name": "LANDI Veyrier",
+    "Ort": "Veyrier",
+    "PLZ": "1255",
+    "Strasse": "Chemin des Marais",
+    "StreetNumber": "52",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.16328,
+      "Longitude": 6.166515
+    },
+    "Url": "/places/de/landi-veyrier",
+    "UrlDirect": "http://www.cage.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "022 899 12 00"
+  },
+  {
+    "Id": 1573,
+    "Name": "LANDI Simmental-Saanenland",
+    "Ort": "Grund bei Gstaad",
+    "PLZ": "3783",
+    "Strasse": "Mattenstrasse 120",
+    "StreetNumber": null,
+    "Zusatz": "AGROcenter Grund",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 46.474786,
+      "Longitude": 7.284592
+    },
+    "Url": "/places/de/landi-simmental-saanenland-agrocenter-grund",
+    "UrlDirect": "http://www.landisaanenland.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": null
+  },
+  {
+    "Id": 1575,
+    "Name": "LANDI Nesslau",
+    "Ort": "Neu St. Johann",
+    "PLZ": "9652",
+    "Strasse": "Toggenburgerstrasse ",
+    "StreetNumber": "40",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.232356,
+      "Longitude": 9.190799
+    },
+    "Url": "/places/de/landi-nesslau",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 17:00",
+    "Phone": "058 400 62 00"
+  },
+  {
+    "Id": 1576,
+    "Name": "LANDI Cossonay",
+    "Ort": "Cossonay-Ville",
+    "PLZ": "1304",
+    "Strasse": "Route de Dizy ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.618528,
+      "Longitude": 6.506952
+    },
+    "Url": "/places/de/landi-cossonay",
+    "UrlDirect": "http://www.landinordvaudoisvenoge.ch",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "058 434 39 00"
+  },
+  {
+    "Id": 1583,
+    "Name": "LANDI / Volg Laden Schongau",
+    "Ort": "Schongau",
+    "PLZ": "6288",
+    "Strasse": "Mettmenstrasse ",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.26792,
+      "Longitude": 8.260733
+    },
+    "Url": "/places/de/landi-volg-laden-schongau",
+    "UrlDirect": "http://www.landioberseetal.ch",
+    "OeffnungszeitenToday": "07:30 - 17:00",
+    "Phone": "041 917 15 33"
+  },
+  {
+    "Id": 1587,
+    "Name": "LANDI Muhen",
+    "Ort": "Muhen",
+    "PLZ": "5037",
+    "Strasse": "Hauptstrasse",
+    "StreetNumber": "44",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.33403,
+      "Longitude": 8.055081
+    },
+    "Url": "/places/de/landi-muhen",
+    "UrlDirect": "http://www.landimuhen.ch/",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "062 723 25 47"
+  },
+  {
+    "Id": 1588,
+    "Name": "LANDI Sursee",
+    "Ort": "Rickenbach",
+    "PLZ": "6221",
+    "Strasse": "Krümmigasse",
+    "StreetNumber": "3",
+    "Zusatz": "Agrarcenter Rickenbach",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.221928,
+      "Longitude": 8.149403
+    },
+    "Url": "/places/de/landi-sursee-agrarcenter-rickenbach",
+    "UrlDirect": "http://www.landisursee.ch",
+    "OeffnungszeitenToday": "08:00 - 12:00",
+    "Phone": "058 434 29 60"
+  },
+  {
+    "Id": 1604,
+    "Name": "LANDI Chur",
+    "Ort": "Chur",
+    "PLZ": "7000",
+    "Strasse": "Triststrasse ",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.84488,
+      "Longitude": 9.507208
+    },
+    "Url": "/places/de/landi-chur",
+    "UrlDirect": "http://www.landigraubuenden.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 433 72 42"
+  },
+  {
+    "Id": 1605,
+    "Name": "LANDI Adliswil",
+    "Ort": "Adliswil",
+    "PLZ": "8134",
+    "Strasse": "Soodring",
+    "StreetNumber": "36",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.316059,
+      "Longitude": 8.520642
+    },
+    "Url": "/places/de/landi-adliswil",
+    "UrlDirect": "http://www.landialbis.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 91 56"
+  },
+  {
+    "Id": 1609,
+    "Name": "LANDI Baar",
+    "Ort": "Baar",
+    "PLZ": "6340",
+    "Strasse": "Lättichstrasse",
+    "StreetNumber": "4",
+    "Zusatz": "LANDI Sins-Zugerland",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.19897,
+      "Longitude": 8.53883
+    },
+    "Url": "/places/de/landi-baar-landi-sins-zugerland",
+    "UrlDirect": "http://www.landisinszugerland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 30 80"
+  },
+  {
+    "Id": 1612,
+    "Name": "LANDI Konolfingen",
+    "Ort": "Konolfingen",
+    "PLZ": "3510",
+    "Strasse": "Haldenweg",
+    "StreetNumber": "5",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.88068,
+      "Longitude": 7.61479
+    },
+    "Url": "/places/de/landi-konolfingen",
+    "UrlDirect": "http://www.landiaare.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 59 06"
+  },
+  {
+    "Id": 1614,
+    "Name": "LANDI Rickenbach Sulz",
+    "Ort": "Rickenbach Sulz",
+    "PLZ": "8545",
+    "Strasse": "Stationsstrasse",
+    "StreetNumber": "1",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.53543,
+      "Longitude": 8.787
+    },
+    "Url": "/places/de/landi-rickenbach-sulz",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 94 70"
+  },
+  {
+    "Id": 1615,
+    "Name": "LANDI Würenlos",
+    "Ort": "Würenlos",
+    "PLZ": "5436",
+    "Strasse": "Grosszelgstrasse ",
+    "StreetNumber": "18",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.44545,
+      "Longitude": 8.35714
+    },
+    "Url": "/places/de/landi-wuerenlos",
+    "UrlDirect": "http://www.landifurt-limmattal.ch",
+    "OeffnungszeitenToday": "08:00 - 16:30",
+    "Phone": "058 476 55 66"
+  },
+  {
+    "Id": 1616,
+    "Name": "LANDI Conthey",
+    "Ort": "Conthey",
+    "PLZ": "1964",
+    "Strasse": "Route des Rottes",
+    "StreetNumber": "3",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.22241,
+      "Longitude": 7.29774
+    },
+    "Url": "/places/de/landi-conthey",
+    "UrlDirect": "http://www.landirhonelavaux.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 53 74"
+  },
+  {
+    "Id": 1617,
+    "Name": "LANDI Lyssach",
+    "Ort": "Lyssach",
+    "PLZ": "3421",
+    "Strasse": "Schachenstrasse",
+    "StreetNumber": "39",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.0733,
+      "Longitude": 7.58977
+    },
+    "Url": "/places/de/landi-lyssach",
+    "UrlDirect": "http://www.landikowy.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 94 47"
+  },
+  {
+    "Id": 1618,
+    "Name": "LANDI Sirnach",
+    "Ort": "Sirnach",
+    "PLZ": "8370",
+    "Strasse": "Dreibrunnenstrasse",
+    "StreetNumber": "8",
+    "Zusatz": "LAVEBA LANDI AG",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.46455,
+      "Longitude": 9.02225
+    },
+    "Url": "/places/de/landi-sirnach-laveba-landi-ag",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-sirnach",
+    "OeffnungszeitenToday": "08:00 - 18:00",
+    "Phone": "058 400 62 90"
+  },
+  {
+    "Id": 1619,
+    "Name": "LANDI Lüscherz",
+    "Ort": "Lüscherz",
+    "PLZ": "2576",
+    "Strasse": "Hauptstrasse 64",
+    "StreetNumber": "",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.04582,
+      "Longitude": 7.14735
+    },
+    "Url": "/places/de/landi-luescherz",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 11:30",
+    "Phone": "032 338 19 34"
+  },
+  {
+    "Id": 1620,
+    "Name": "LANDI Schönenberg",
+    "Ort": "Schönenberg",
+    "PLZ": "8824",
+    "Strasse": "Hüttnerstrasse 10",
+    "StreetNumber": "",
+    "Zusatz": "",
+    "StandortTypenId": 1,
+    "LatLng": {
+      "Latitude": 47.19197,
+      "Longitude": 8.64476
+    },
+    "Url": "/places/de/landi-schoenenberg",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "07:30 - 12:00",
+    "Phone": "044 788 11 60"
+  },
+  {
+    "Id": 1624,
+    "Name": "LANDI Bassersdorf",
+    "Ort": "Bassersdorf",
+    "PLZ": "8303",
+    "Strasse": "Rütiring",
+    "StreetNumber": "16",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.42853,
+      "Longitude": 8.64405
+    },
+    "Url": "/places/de/landi-bassersdorf",
+    "UrlDirect": "http://www.landizueriunterland.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "044 838 19 30"
+  },
+  {
+    "Id": 1625,
+    "Name": "LANDI Frauenfeld",
+    "Ort": "Frauenfeld",
+    "PLZ": "8500",
+    "Strasse": "Zürcherstrasse",
+    "StreetNumber": "381",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.57076,
+      "Longitude": 8.92151
+    },
+    "Url": "/places/de/landi-frauenfeld",
+    "UrlDirect": "http://www.landithula.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "052 551 50 70"
+  },
+  {
+    "Id": 1626,
+    "Name": "LANDI Wankdorf",
+    "Ort": "Bern",
+    "PLZ": "3014",
+    "Strasse": "Wankdorffeldstrasse",
+    "StreetNumber": "90",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 46.96541,
+      "Longitude": 7.45776
+    },
+    "Url": "/places/de/landi-wankdorf",
+    "UrlDirect": "http://www.landibolligen.ch",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 476 82 82"
+  },
+  {
+    "Id": 1627,
+    "Name": "LANDI Buchs (AG)",
+    "Ort": "Buchs (AG)",
+    "PLZ": "5033",
+    "Strasse": "Bresteneggstrasse",
+    "StreetNumber": "9b",
+    "Zusatz": "Wynecenter",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.38471,
+      "Longitude": 8.08895
+    },
+    "Url": "/places/de/landi-buchs-(ag)-wynecenter",
+    "UrlDirect": null,
+    "OeffnungszeitenToday": "08:00 - 20:00",
+    "Phone": "062 838 08 38"
+  },
+  {
+    "Id": 1629,
+    "Name": "LANDI Töss",
+    "Ort": "Winterthur",
+    "PLZ": "8406",
+    "Strasse": "Klosterstrasse",
+    "StreetNumber": "18a",
+    "Zusatz": "",
+    "StandortTypenId": 3,
+    "LatLng": {
+      "Latitude": 47.48704,
+      "Longitude": 8.70651
+    },
+    "Url": "/places/de/landi-toess",
+    "UrlDirect": "https://landi.swiss/de-CH/cooperative/landi-zola",
+    "OeffnungszeitenToday": "08:00 - 17:00",
+    "Phone": "058 434 37 90\t"
+  }
+]

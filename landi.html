@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LANDI Stock</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f2f2f2;
+}
+
+header {
+    background: #1769aa;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 22px;
+}
+
+#status {
+    font-size: 13px;
+    margin-top: 4px;
+}
+
+.controls {
+    background: white;
+    padding: 8px 10px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 2px 5px #aaa;
+}
+
+.filter-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    gap: 6px;
+}
+
+.filter-row label {
+    width: 75px;
+    flex-shrink: 0;
+    font-size: 13px;
+}
+
+select {
+    width: 165px;
+    max-width: calc(100vw - 90px);
+    padding: 5px 6px;
+    margin: 0;
+    font-size: 14px;
+}
+
+button {
+    width: auto;
+    padding: 7px 12px;
+    font-size: 14px;
+    margin: 3px 4px 2px 0;
+    border: 0;
+    border-radius: 5px;
+    background: #1769aa;
+    color: white;
+}
+
+button:active {
+    background: #0d4f80;
+}
+
+.card {
+    background: white;
+    margin: 8px 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px #bbb;
+}
+
+.store {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.address {
+    color: #666;
+    margin: 4px 0;
+    font-size: 14px;
+}
+
+.distance {
+    color: #777;
+    font-size: 13px;
+}
+
+.colour {
+    font-weight: bold;
+}
+
+.stock {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.up {
+    color: green;
+    font-weight: bold;
+}
+
+.down {
+    color: red;
+    font-weight: bold;
+}
+
+.new {
+    color: green;
+    font-weight: bold;
+}
+
+.sold {
+    color: red;
+    font-weight: bold;
+}
+
+h2 {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.stock-line {
+    margin-top: 7px;
+    padding-top: 5px;
+    border-top: 1px solid #eee;
+}
+
+@media (max-width: 400px) {
+
+    .filter-row label {
+        width: 65px;
+        font-size: 12px;
+    }
+
+    select {
+        width: 155px;
+        font-size: 13px;
+    }
+
+    button {
+        font-size: 13px;
+        padding: 6px 9px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>LANDI Stock</h1>
+    <div id="status">Loading...</div>
+</header>
+
+<div class="controls">
+
+    <div class="filter-row">
+        <label><b>Location</b></label>
+        <select id="location">
+            <option value="bonfol">Bonfol</option>
+            <option value="bonstetten">Bonstetten</option>
+            <option value="basel">Basel</option>
+        </select>
+    </div>
+
+    <div class="filter-row">
+        <label><b>Store</b></label>
+        <select id="store">
+            <option value="all">All stores</option>
+        </select>
+    </div>
+
+    <div class="filter-row">
+        <label><b>Stock</b></label>
+        <select id="stockFilter">
+            <option value="stock">With stock</option>
+            <option value="nostock">No stock</option>
+            <option value="all">All stores</option>
+        </select>
+    </div>
+
+    <div class="filter-row">
+        <label><b>Colour</b></label>
+        <select id="colour">
+            <option value="all">All colours</option>
+            <option value="Hellblau">Hellblau</option>
+            <option value="Dunkelblau">Dunkelblau</option>
+            <option value="Mint">Mint</option>
+            <option value="Vanille">Vanille</option>
+        </select>
+    </div>
+
+    <button id="stockButton">Show Stock</button>
+    <button id="changesButton">Show Changes</button>
+
+</div>
+
+<div id="results"></div>
+
+<script>
+
+let stores = [];
+let stock = [];
+let changes = [];
+
+const locations = {
+
+    bonfol: {
+        lat: 47.477,
+        lng: 7.151
+    },
+
+    bonstetten: {
+        lat: 47.315,
+        lng: 8.467
+    },
+
+    basel: {
+        lat: 47.559,
+        lng: 7.589
+    }
+
+};
+
+
+function loadJSON(file) {
+
+    return fetch(file + "?v=" + Date.now())
+        .then(function(response) {
+
+            if (!response.ok) {
+                throw new Error(
+                    file + " HTTP " + response.status
+                );
+            }
+
+            return response.json();
+
+        });
+
+}
+
+
+function loadData() {
+
+    Promise.all([
+
+        loadJSON("stores.json"),
+        loadJSON("stock.json"),
+        loadJSON("changes.json")
+
+    ])
+
+    .then(function(data) {
+
+        /*
+         * stores.json can either be:
+         *
+         * { "FoundPlaces":269, "Places":[...] }
+         *
+         * or directly [...]
+         */
+
+        if (Array.isArray(data[0])) {
+            stores = data[0];
+        } else {
+            stores = data[0].Places || [];
+        }
+
+        stock = Array.isArray(data[1])
+            ? data[1]
+            : [];
+
+        changes = Array.isArray(data[2])
+            ? data[2]
+            : [];
+
+        populateStores();
+
+        document.getElementById("status").innerText =
+            stores.length +
+            " stores / " +
+            stock.length +
+            " stock entries";
+
+        showStock();
+
+    })
+
+    .catch(function(error) {
+
+        console.error(error);
+
+        document.getElementById("status").innerText =
+            "ERROR";
+
+        document.getElementById("results").innerHTML =
+            "<div class='card'>" +
+            "<b>Failed to load LANDI data</b><br><br>" +
+            error.message +
+            "</div>";
+
+    });
+
+}
+
+
+function populateStores() {
+
+    const select =
+        document.getElementById("store");
+
+    select.innerHTML =
+        "<option value='all'>All stores</option>";
+
+    stores
+        .slice()
+        .sort(function(a, b) {
+
+            return String(a.Name || "")
+                .localeCompare(
+                    String(b.Name || "")
+                );
+
+        })
+        .forEach(function(store) {
+
+            const option =
+                document.createElement("option");
+
+            option.value = store.Id;
+
+            option.textContent =
+                (store.Name || "") +
+                " (" +
+                (store.PLZ || "") +
+                " " +
+                (store.Ort || "") +
+                ")";
+
+            select.appendChild(option);
+
+        });
+
+}
+
+
+function getStock(storeId, colour) {
+
+    for (
+        let i = 0;
+        i < stock.length;
+        i++
+    ) {
+
+        const item = stock[i];
+
+        /*
+         * Accept both possible names:
+         * color / colour
+         * id / Id
+         */
+
+        const itemId =
+            item.id !== undefined
+                ? item.id
+                : item.Id;
+
+        const itemColour =
+            item.color !== undefined
+                ? item.color
+                : item.colour;
+
+        if (
+            Number(itemId) === Number(storeId) &&
+            String(itemColour) === String(colour)
+        ) {
+
+            return Number(
+                item.stock !== undefined
+                    ? item.stock
+                    : item.quantity || 0
+            );
+
+        }
+
+    }
+
+    return 0;
+
+}
+
+
+function getDistance(store, location) {
+
+    if (
+        !store.LatLng ||
+        store.LatLng.Latitude === undefined ||
+        store.LatLng.Longitude === undefined
+    ) {
+        return 99999;
+    }
+
+    return distance(
+        location.lat,
+        location.lng,
+        Number(store.LatLng.Latitude),
+        Number(store.LatLng.Longitude)
+    );
+
+}
+
+
+function distance(lat1, lon1, lat2, lon2) {
+
+    const R = 6371;
+
+    const p1 = lat1 * Math.PI / 180;
+    const p2 = lat2 * Math.PI / 180;
+
+    const dp =
+        (lat2 - lat1) *
+        Math.PI / 180;
+
+    const dl =
+        (lon2 - lon1) *
+        Math.PI / 180;
+
+    const a =
+        Math.sin(dp / 2) *
+        Math.sin(dp / 2) +
+
+        Math.cos(p1) *
+        Math.cos(p2) *
+        Math.sin(dl / 2) *
+        Math.sin(dl / 2);
+
+    return R *
+        2 *
+        Math.atan2(
+            Math.sqrt(a),
+            Math.sqrt(1 - a)
+        );
+
+}
+
+
+function showStock() {
+
+    const location =
+        locations[
+            document.getElementById("location").value
+        ];
+
+    const selectedStore =
+        document.getElementById("store").value;
+
+    const selectedColour =
+        document.getElementById("colour").value;
+
+    const filter =
+        document.getElementById("stockFilter").value;
+
+
+    let rows = [];
+
+
+    stores.forEach(function(store) {
+
+        if (
+            selectedStore !== "all" &&
+            Number(selectedStore) !==
+            Number(store.Id)
+        ) {
+            return;
+        }
+
+
+        let colours = [
+            "Hellblau",
+            "Dunkelblau",
+            "Mint",
+            "Vanille"
+        ];
+
+
+        if (selectedColour !== "all") {
+
+            colours = [
+                selectedColour
+            ];
+
+        }
+
+
+        colours.forEach(function(colour) {
+
+            const qty =
+                getStock(
+                    store.Id,
+                    colour
+                );
+
+
+            if (
+                filter === "stock" &&
+                qty === 0
+            ) {
+                return;
+            }
+
+
+            if (
+                filter === "nostock" &&
+                qty > 0
+            ) {
+                return;
+            }
+
+
+            rows.push({
+
+                store: store,
+
+                colour: colour,
+
+                qty: qty,
+
+                distance:
+                    getDistance(
+                        store,
+                        location
+                    )
+
+            });
+
+        });
+
+    });
+
+
+    rows.sort(function(a, b) {
+
+        return a.distance -
+            b.distance;
+
+    });
+
+
+    let html = "";
+
+
+    if (rows.length === 0) {
+
+        html =
+            "<div class='card'>" +
+            "No stores found." +
+            "</div>";
+
+    }
+
+
+    let currentStore = null;
+
+
+    rows.forEach(function(row, index) {
+
+        if (
+            currentStore !==
+            row.store.Id
+        ) {
+
+            if (currentStore !== null) {
+                html += "</div>";
+            }
+
+
+            currentStore =
+                row.store.Id;
+
+
+            html +=
+
+                "<div class='card'>" +
+
+                "<div class='store'>" +
+                escapeHTML(
+                    row.store.Name || ""
+                ) +
+                "</div>" +
+
+                "<div class='address'>" +
+
+                escapeHTML(
+                    (row.store.Strasse || "") +
+                    " " +
+                    (row.store.StreetNumber || "")
+                ) +
+
+                "<br>" +
+
+                escapeHTML(
+                    (row.store.PLZ || "") +
+                    " " +
+                    (row.store.Ort || "")
+                ) +
+
+                "</div>" +
+
+                "<div class='distance'>" +
+
+                row.distance.toFixed(1) +
+
+                " km away" +
+
+                "</div>";
+
+        }
+
+
+        html +=
+
+            "<div class='stock-line'>" +
+
+            "<span class='colour'>" +
+
+            escapeHTML(row.colour) +
+
+            "</span>: " +
+
+            "<span class='stock'>" +
+
+            row.qty +
+
+            "</span> Stück" +
+
+            "</div>";
+
+
+        if (
+            index === rows.length - 1
+        ) {
+
+            html += "</div>";
+
+        }
+
+    });
+
+
+    document.getElementById(
+        "results"
+    ).innerHTML = html;
+
+}
+
+
+function showChanges() {
+
+    const location =
+        locations[
+            document.getElementById("location").value
+        ];
+
+
+    const selectedColour =
+        document.getElementById("colour").value;
+
+
+    let rows =
+        changes.slice();
+
+
+    if (
+        selectedColour !== "all"
+    ) {
+
+        rows =
+            rows.filter(function(row) {
+
+                return (
+                    row.color === selectedColour ||
+                    row.colour === selectedColour
+                );
+
+            });
+
+    }
+
+
+    rows.forEach(function(row) {
+
+        const lat =
+            Number(
+                row.lat ||
+                row.Latitude ||
+                0
+            );
+
+        const lng =
+            Number(
+                row.lng ||
+                row.Longitude ||
+                0
+            );
+
+        row.distance =
+            distance(
+                location.lat,
+                location.lng,
+                lat,
+                lng
+            );
+
+    });
+
+
+    rows.sort(function(a, b) {
+
+        return a.distance -
+            b.distance;
+
+    });
+
+
+    let html =
+        "<h2>Stock changes</h2>";
+
+
+    if (rows.length === 0) {
+
+        html +=
+
+            "<div class='card'>" +
+
+            "No stock changes since " +
+            "the previous check." +
+
+            "</div>";
+
+    }
+
+
+    rows.forEach(function(row) {
+
+        const oldStock =
+            Number(
+                row.old !== undefined
+                    ? row.old
+                    : row.oldStock || 0
+            );
+
+        const newStock =
+            Number(
+                row.new !== undefined
+                    ? row.new
+                    : row.newStock || 0
+            );
+
+        const change =
+            newStock - oldStock;
+
+
+        let message;
+        let cls;
+
+
+        if (
+            oldStock === 0 &&
+            newStock > 0
+        ) {
+
+            message =
+                "NEW STOCK";
+
+            cls = "new";
+
+        }
+
+        else if (
+            oldStock > 0 &&
+            newStock === 0
+        ) {
+
+            message =
+                "SOLD OUT";
+
+            cls = "sold";
+
+        }
+
+        else if (change > 0) {
+
+            message =
+                "▲ +" + change;
+
+            cls = "up";
+
+        }
+
+        else {
+
+            message =
+                "▼ " + change;
+
+            cls = "down";
+
+        }
+
+
+        const colour =
+            row.color ||
+            row.colour ||
+            "";
+
+
+        const name =
+            row.name ||
+            row.Name ||
+            "";
+
+
+        const street =
+            row.street ||
+            row.Strasse ||
+            "";
+
+
+        const city =
+            row.city ||
+            row.Ort ||
+            "";
+
+
+        const zip =
+            row.zip ||
+            row.PLZ ||
+            "";
+
+
+        html +=
+
+            "<div class='card'>" +
+
+            "<div class='store'>" +
+
+            escapeHTML(name) +
+
+            "</div>" +
+
+            "<div class='address'>" +
+
+            escapeHTML(street) +
+
+            "<br>" +
+
+            escapeHTML(
+                zip + " " + city
+            ) +
+
+            "</div>" +
+
+            "<div class='distance'>" +
+
+            row.distance.toFixed(1) +
+
+            " km away" +
+
+            "</div>" +
+
+            "<div class='stock-line'>" +
+
+            "<b>" +
+
+            escapeHTML(colour) +
+
+            "</b><br>" +
+
+            oldStock +
+            " → " +
+            newStock +
+            " Stück<br>" +
+
+            "<span class='" +
+            cls +
+            "'>" +
+
+            message +
+
+            "</span>" +
+
+            "</div>" +
+
+            "</div>";
+
+    });
+
+
+    document.getElementById(
+        "results"
+    ).innerHTML = html;
+
+}
+
+
+function escapeHTML(value) {
+
+    return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+
+}
+
+
+/* Buttons */
+
+document.getElementById(
+    "stockButton"
+).onclick = function() {
+
+    showStock();
+
+};
+
+
+document.getElementById(
+    "changesButton"
+).onclick = function() {
+
+    showChanges();
+
+};
+
+
+/* Filters */
+
+document.getElementById(
+    "location"
+).onchange = function() {
+
+    showStock();
+
+};
+
+
+document.getElementById(
+    "store"
+).onchange = function() {
+
+    showStock();
+
+};
+
+
+document.getElementById(
+    "stockFilter"
+).onchange = function() {
+
+    showStock();
+
+};
+
+
+document.getElementById(
+    "colour"
+).onchange = function() {
+
+    showStock();
+
+};
+
+
+/* Start */
+
+loadData();
+
+</script>
+
+</body>
+</html>
