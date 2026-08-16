@@ -219,6 +219,7 @@ h2 {
 let stores = [];
 let stock = [];
 let changes = [];
+let retrievalStatus = null;
 
 const locations = {
 
@@ -264,7 +265,10 @@ function loadData() {
 
         loadJSON("stores.json"),
         loadJSON("stock.json"),
-        loadJSON("changes.json")
+        loadJSON("changes.json"),
+        loadJSON("status.json").catch(function() {
+            return null;
+        })
 
     ])
 
@@ -292,13 +296,43 @@ function loadData() {
             ? data[2]
             : [];
 
+        retrievalStatus = data[3];
+
         populateStores();
 
-        document.getElementById("status").innerText =
+        let statusText =
             stores.length +
             " stores / " +
             stock.length +
             " stock entries";
+
+        if (
+            retrievalStatus &&
+            retrievalStatus.retrieved_at
+        ) {
+            const retrievedDate = new Date(
+                retrievalStatus.retrieved_at
+            );
+
+            if (!isNaN(retrievedDate.getTime())) {
+                const formatted = new Intl.DateTimeFormat(
+                    undefined,
+                    {
+                        timeZone: "Europe/Zurich",
+                        dateStyle: "medium",
+                        timeStyle: "short"
+                    }
+                ).format(retrievedDate);
+
+                statusText +=
+                    " | Retrieved " +
+                    formatted +
+                    " Swiss time";
+            }
+        }
+
+        document.getElementById("status").innerText =
+            statusText;
 
         showStock();
 
