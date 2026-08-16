@@ -331,6 +331,36 @@ function loadData() {
             }
         }
 
+        if (
+            retrievalStatus &&
+            Number.isFinite(
+                Number(retrievalStatus.total_stock)
+            )
+        ) {
+            const totalStock = Number(
+                retrievalStatus.total_stock
+            );
+            const dayChange = Number(
+                retrievalStatus.change_from_previous_day
+            );
+
+            statusText +=
+                " | Total stock: " +
+                totalStock.toLocaleString();
+
+            if (Number.isFinite(dayChange)) {
+                const sign = dayChange > 0
+                    ? "+"
+                    : "";
+
+                statusText +=
+                    " | " +
+                    sign +
+                    dayChange.toLocaleString() +
+                    " vs previous day";
+            }
+        }
+
         document.getElementById("status").innerText =
             statusText;
 
