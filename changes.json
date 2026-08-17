@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": 1367,
+    "name": "LANDI Mitlödi",
+    "city": "Mitlödi",
+    "zip": "8756",
+    "street": "Hauptstrasse  95",
+    "lat": 47.017162,
+    "lng": 9.08124,
+    "color": "Dunkelblau",
+    "old": 39,
+    "new": 38,
+    "change": -1,
+    "date": "2026-08-17"
+  },
+  {
+    "id": 1371,
+    "name": "LANDI Schattdorf",
+    "city": "Schattdorf",
+    "zip": "6467",
+    "street": "Umfahrungsstrasse  24",
+    "lat": 46.857691,
+    "lng": 8.639242,
+    "color": "Mint",
+    "old": 2,
+    "new": 1,
+    "change": -1,
+    "date": "2026-08-17"
+  }
+]
