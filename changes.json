@@ -40,5 +40,47 @@
     "new": 4,
     "change": -1,
     "date": "2026-08-20"
+  },
+  {
+    "id": 1571,
+    "name": "LANDI Veyrier",
+    "city": "Veyrier",
+    "zip": "1255",
+    "street": "Chemin des Marais 52",
+    "lat": 46.16328,
+    "lng": 6.166515,
+    "color": "Hellblau",
+    "old": 5,
+    "new": 3,
+    "change": -2,
+    "date": "2026-08-20"
+  },
+  {
+    "id": 1362,
+    "name": "LANDI Marly",
+    "city": "Marly",
+    "zip": "1723",
+    "street": "Route de Chésalles  3",
+    "lat": 46.771747,
+    "lng": 7.16049,
+    "color": "Vanille",
+    "old": 12,
+    "new": 11,
+    "change": -1,
+    "date": "2026-08-20"
+  },
+  {
+    "id": 1192,
+    "name": "LANDI Mühlethurnen",
+    "city": "Mühlethurnen",
+    "zip": "3127",
+    "street": "Bahnhofstrasse  45",
+    "lat": 46.814524,
+    "lng": 7.513601,
+    "color": "Hellblau",
+    "old": 4,
+    "new": 0,
+    "change": -4,
+    "date": "2026-08-20"
   }
 ]
