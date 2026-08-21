@@ -705,7 +705,7 @@
     "lng": 7.563359,
     "color": "Hellblau",
     "product": "105793",
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1188,
@@ -3321,7 +3321,7 @@
     "lng": 6.212968,
     "color": "Dunkelblau",
     "product": "105794",
-    "stock": 22
+    "stock": 21
   },
   {
     "id": 1576,
@@ -4353,7 +4353,7 @@
     "lng": 7.68219,
     "color": "Dunkelblau",
     "product": "105794",
-    "stock": 5
+    "stock": 4
   },
   {
     "id": 1227,
@@ -6477,7 +6477,7 @@
     "lng": 6.219203,
     "color": "Mint",
     "product": "105795",
-    "stock": 29
+    "stock": 28
   },
   {
     "id": 1571,
@@ -10089,7 +10089,7 @@
     "lng": 7.249124,
     "color": "Vanille",
     "product": "105796",
-    "stock": 35
+    "stock": 15
   },
   {
     "id": 1544,
@@ -12309,7 +12309,7 @@
     "lng": 9.08124,
     "color": "Vanille",
     "product": "105796",
-    "stock": 10
+    "stock": 9
   },
   {
     "id": 1329,
