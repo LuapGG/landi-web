@@ -12,5 +12,61 @@
     "new": 16,
     "change": -1,
     "date": "2026-08-22"
+  },
+  {
+    "id": 1174,
+    "name": "LANDI Pontenet",
+    "city": "Pontenet",
+    "zip": "2733",
+    "street": "Route Cantonale 1",
+    "lat": 47.238115,
+    "lng": 7.249124,
+    "color": "Mint",
+    "old": 24,
+    "new": 23,
+    "change": -1,
+    "date": "2026-08-22"
+  },
+  {
+    "id": 1174,
+    "name": "LANDI Pontenet",
+    "city": "Pontenet",
+    "zip": "2733",
+    "street": "Route Cantonale 1",
+    "lat": 47.238115,
+    "lng": 7.249124,
+    "color": "Vanille",
+    "old": 15,
+    "new": 14,
+    "change": -1,
+    "date": "2026-08-22"
+  },
+  {
+    "id": 1544,
+    "name": "LANDI Belprahon",
+    "city": "Belprahon",
+    "zip": "2744",
+    "street": "Dos les Terras 3",
+    "lat": 47.279368,
+    "lng": 7.397713,
+    "color": "Dunkelblau",
+    "old": 2,
+    "new": 0,
+    "change": -2,
+    "date": "2026-08-22"
+  },
+  {
+    "id": 1544,
+    "name": "LANDI Belprahon",
+    "city": "Belprahon",
+    "zip": "2744",
+    "street": "Dos les Terras 3",
+    "lat": 47.279368,
+    "lng": 7.397713,
+    "color": "Mint",
+    "old": 3,
+    "new": 0,
+    "change": -3,
+    "date": "2026-08-22"
   }
 ]
