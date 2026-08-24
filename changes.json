@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": 1576,
+    "name": "LANDI Cossonay",
+    "city": "Cossonay-Ville",
+    "zip": "1304",
+    "street": "Route de Dizy  1",
+    "lat": 46.618528,
+    "lng": 6.506952,
+    "color": "Mint",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-08-24"
+  },
+  {
+    "id": 1383,
+    "name": "LANDI Triengen",
+    "city": "Triengen",
+    "zip": "6234",
+    "street": "Kantonsstrasse 4",
+    "lat": 47.227923,
+    "lng": 8.084436,
+    "color": "Vanille",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-08-24"
+  }
+]
