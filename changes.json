@@ -1,16 +1,1 @@
-[
-  {
-    "id": 1235,
-    "name": "LANDI Interlaken",
-    "city": "Interlaken",
-    "zip": "3800",
-    "street": "Untere Bönigstrasse  50",
-    "lat": 46.688732,
-    "lng": 7.878991,
-    "color": "Hellblau",
-    "old": 9,
-    "new": 8,
-    "change": -1,
-    "date": "2026-08-23"
-  }
-]
+[]
