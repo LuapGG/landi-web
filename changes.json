@@ -1,44 +1,16 @@
 [
   {
-    "id": 1157,
-    "name": "LANDI Plaffeien",
-    "city": "Plaffeien",
-    "zip": "1716",
-    "street": "Obere Matta 20",
-    "lat": 46.739462,
-    "lng": 7.290264,
-    "color": "Vanille",
-    "old": 1,
-    "new": 0,
-    "change": -1,
-    "date": "2026-08-25"
-  },
-  {
-    "id": 1300,
-    "name": "LANDI Beringen",
-    "city": "Beringen",
-    "zip": "8222",
-    "street": "Werkstrasse 15",
-    "lat": 47.694494,
-    "lng": 8.572819,
-    "color": "Hellblau",
-    "old": 10,
-    "new": 8,
-    "change": -2,
-    "date": "2026-08-25"
-  },
-  {
-    "id": 1157,
-    "name": "LANDI Plaffeien",
-    "city": "Plaffeien",
-    "zip": "1716",
-    "street": "Obere Matta 20",
-    "lat": 46.739462,
-    "lng": 7.290264,
+    "id": 1295,
+    "name": "LANDI Landquart",
+    "city": "Landquart",
+    "zip": "7302",
+    "street": "Löserstrasse  11",
+    "lat": 46.955743,
+    "lng": 9.561715,
     "color": "Mint",
-    "old": 2,
-    "new": 1,
-    "change": -1,
-    "date": "2026-08-25"
+    "old": 16,
+    "new": 14,
+    "change": -2,
+    "date": "2026-08-26"
   }
 ]
