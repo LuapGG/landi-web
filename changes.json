@@ -12,5 +12,47 @@
     "new": 14,
     "change": -2,
     "date": "2026-08-26"
+  },
+  {
+    "id": 1140,
+    "name": "LANDI Site d'Eysins",
+    "city": "Eysins",
+    "zip": "1262",
+    "street": "Route de Crassier  27",
+    "lat": 46.38462,
+    "lng": 6.212968,
+    "color": "Dunkelblau",
+    "old": 21,
+    "new": 20,
+    "change": -1,
+    "date": "2026-08-26"
+  },
+  {
+    "id": 1135,
+    "name": "LANDI Site de Bussy",
+    "city": "Bussy-Chardonney",
+    "zip": "1136",
+    "street": "Ch. du Curbit  1",
+    "lat": 46.525734,
+    "lng": 6.443492,
+    "color": "Mint",
+    "old": 12,
+    "new": 11,
+    "change": -1,
+    "date": "2026-08-26"
+  },
+  {
+    "id": 1174,
+    "name": "LANDI Pontenet",
+    "city": "Pontenet",
+    "zip": "2733",
+    "street": "Route Cantonale 1",
+    "lat": 47.238115,
+    "lng": 7.249124,
+    "color": "Dunkelblau",
+    "old": 16,
+    "new": 15,
+    "change": -1,
+    "date": "2026-08-26"
   }
 ]
