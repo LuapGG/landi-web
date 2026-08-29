@@ -82,5 +82,61 @@
     "new": 15,
     "change": -1,
     "date": "2026-08-29"
+  },
+  {
+    "id": 1302,
+    "name": "LANDI Eschenz",
+    "city": "Eschenz",
+    "zip": "8264",
+    "street": "Hauptstrasse  15",
+    "lat": 47.6532,
+    "lng": 8.862184,
+    "color": "Mint",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1174,
+    "name": "LANDI Pontenet",
+    "city": "Pontenet",
+    "zip": "2733",
+    "street": "Route Cantonale 1",
+    "lat": 47.238115,
+    "lng": 7.249124,
+    "color": "Vanille",
+    "old": 14,
+    "new": 13,
+    "change": -1,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1139,
+    "name": "LANDI Meinier",
+    "city": "Meinier",
+    "zip": "1252",
+    "street": "Route de Compois 14",
+    "lat": 46.246523,
+    "lng": 6.219203,
+    "color": "Dunkelblau",
+    "old": 18,
+    "new": 17,
+    "change": -1,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1300,
+    "name": "LANDI Beringen",
+    "city": "Beringen",
+    "zip": "8222",
+    "street": "Werkstrasse 15",
+    "lat": 47.694494,
+    "lng": 8.572819,
+    "color": "Mint",
+    "old": 8,
+    "new": 5,
+    "change": -3,
+    "date": "2026-08-29"
   }
 ]

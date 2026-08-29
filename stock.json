@@ -3297,7 +3297,7 @@
     "lng": 6.219203,
     "color": "Dunkelblau",
     "product": "105794",
-    "stock": 18
+    "stock": 17
   },
   {
     "id": 1571,
@@ -8613,7 +8613,7 @@
     "lng": 8.572819,
     "color": "Mint",
     "product": "105795",
-    "stock": 8
+    "stock": 5
   },
   {
     "id": 1388,
@@ -8649,7 +8649,7 @@
     "lng": 8.862184,
     "color": "Mint",
     "product": "105795",
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1390,
@@ -10089,7 +10089,7 @@
     "lng": 7.249124,
     "color": "Vanille",
     "product": "105796",
-    "stock": 14
+    "stock": 13
   },
   {
     "id": 1544,
