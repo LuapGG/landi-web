@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": 1564,
+    "name": "LANDI Zweisimmen",
+    "city": "Zweisimmen",
+    "zip": "3770",
+    "street": "Thunstrasse  29H",
+    "lat": 46.559279,
+    "lng": 7.37425,
+    "color": "Vanille",
+    "old": 17,
+    "new": 16,
+    "change": -1,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1235,
+    "name": "LANDI Interlaken",
+    "city": "Interlaken",
+    "zip": "3800",
+    "street": "Untere Bönigstrasse  50",
+    "lat": 46.688732,
+    "lng": 7.878991,
+    "color": "Hellblau",
+    "old": 8,
+    "new": 7,
+    "change": -1,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1300,
+    "name": "LANDI Beringen",
+    "city": "Beringen",
+    "zip": "8222",
+    "street": "Werkstrasse 15",
+    "lat": 47.694494,
+    "lng": 8.572819,
+    "color": "Dunkelblau",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1300,
+    "name": "LANDI Beringen",
+    "city": "Beringen",
+    "zip": "8222",
+    "street": "Werkstrasse 15",
+    "lat": 47.694494,
+    "lng": 8.572819,
+    "color": "Hellblau",
+    "old": 8,
+    "new": 5,
+    "change": -3,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1174,
+    "name": "LANDI Pontenet",
+    "city": "Pontenet",
+    "zip": "2733",
+    "street": "Route Cantonale 1",
+    "lat": 47.238115,
+    "lng": 7.249124,
+    "color": "Mint",
+    "old": 23,
+    "new": 21,
+    "change": -2,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1140,
+    "name": "LANDI Site d'Eysins",
+    "city": "Eysins",
+    "zip": "1262",
+    "street": "Route de Crassier  27",
+    "lat": 46.38462,
+    "lng": 6.212968,
+    "color": "Mint",
+    "old": 16,
+    "new": 15,
+    "change": -1,
+    "date": "2026-08-29"
+  }
+]
