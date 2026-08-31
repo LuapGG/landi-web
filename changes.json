@@ -82,5 +82,19 @@
     "new": 16,
     "change": -1,
     "date": "2026-08-31"
+  },
+  {
+    "id": 1174,
+    "name": "LANDI Pontenet",
+    "city": "Pontenet",
+    "zip": "2733",
+    "street": "Route Cantonale 1",
+    "lat": 47.238115,
+    "lng": 7.249124,
+    "color": "Hellblau",
+    "old": 30,
+    "new": 29,
+    "change": -1,
+    "date": "2026-08-31"
   }
 ]
