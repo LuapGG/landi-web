@@ -12,5 +12,19 @@
     "new": 2,
     "change": -1,
     "date": "2026-09-01"
+  },
+  {
+    "id": 1166,
+    "name": "LANDI Bevaix",
+    "city": "Bevaix",
+    "zip": "2022",
+    "street": "Chemin des Maladières  14",
+    "lat": 46.920708,
+    "lng": 6.807661,
+    "color": "Mint",
+    "old": 7,
+    "new": 6,
+    "change": -1,
+    "date": "2026-09-01"
   }
 ]
