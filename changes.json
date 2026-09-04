@@ -54,5 +54,47 @@
     "new": 1,
     "change": -1,
     "date": "2026-09-04"
+  },
+  {
+    "id": 1140,
+    "name": "LANDI Site d'Eysins",
+    "city": "Eysins",
+    "zip": "1262",
+    "street": "Route de Crassier  27",
+    "lat": 46.38462,
+    "lng": 6.212968,
+    "color": "Mint",
+    "old": 13,
+    "new": 12,
+    "change": -1,
+    "date": "2026-09-04"
+  },
+  {
+    "id": 1166,
+    "name": "LANDI Bevaix",
+    "city": "Bevaix",
+    "zip": "2022",
+    "street": "Chemin des Maladières  14",
+    "lat": 46.920708,
+    "lng": 6.807661,
+    "color": "Hellblau",
+    "old": 7,
+    "new": 6,
+    "change": -1,
+    "date": "2026-09-04"
+  },
+  {
+    "id": 1140,
+    "name": "LANDI Site d'Eysins",
+    "city": "Eysins",
+    "zip": "1262",
+    "street": "Route de Crassier  27",
+    "lat": 46.38462,
+    "lng": 6.212968,
+    "color": "Hellblau",
+    "old": 15,
+    "new": 14,
+    "change": -1,
+    "date": "2026-09-04"
   }
 ]
