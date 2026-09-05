@@ -12,5 +12,33 @@
     "new": 0,
     "change": -10,
     "date": "2026-09-05"
+  },
+  {
+    "id": 1139,
+    "name": "LANDI Meinier",
+    "city": "Meinier",
+    "zip": "1252",
+    "street": "Route de Compois 14",
+    "lat": 46.246523,
+    "lng": 6.219203,
+    "color": "Mint",
+    "old": 26,
+    "new": 25,
+    "change": -1,
+    "date": "2026-09-05"
+  },
+  {
+    "id": 1135,
+    "name": "LANDI Site de Bussy",
+    "city": "Bussy-Chardonney",
+    "zip": "1136",
+    "street": "Ch. du Curbit  1",
+    "lat": 46.525734,
+    "lng": 6.443492,
+    "color": "Hellblau",
+    "old": 25,
+    "new": 23,
+    "change": -2,
+    "date": "2026-09-05"
   }
 ]
