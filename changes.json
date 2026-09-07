@@ -1,16 +1,30 @@
 [
   {
-    "id": 1235,
-    "name": "LANDI Interlaken",
-    "city": "Interlaken",
-    "zip": "3800",
-    "street": "Untere Bönigstrasse  50",
-    "lat": 46.688732,
-    "lng": 7.878991,
+    "id": 1174,
+    "name": "LANDI Pontenet",
+    "city": "Pontenet",
+    "zip": "2733",
+    "street": "Route Cantonale 1",
+    "lat": 47.238115,
+    "lng": 7.249124,
     "color": "Hellblau",
-    "old": 5,
-    "new": 4,
+    "old": 29,
+    "new": 27,
+    "change": -2,
+    "date": "2026-09-07"
+  },
+  {
+    "id": 1140,
+    "name": "LANDI Site d'Eysins",
+    "city": "Eysins",
+    "zip": "1262",
+    "street": "Route de Crassier  27",
+    "lat": 46.38462,
+    "lng": 6.212968,
+    "color": "Vanille",
+    "old": 16,
+    "new": 15,
     "change": -1,
-    "date": "2026-09-06"
+    "date": "2026-09-07"
   }
 ]
