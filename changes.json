@@ -12,5 +12,47 @@
     "new": 15,
     "change": -1,
     "date": "2026-09-09"
+  },
+  {
+    "id": 1233,
+    "name": "LANDI Lenk",
+    "city": "Lenk im Simmental",
+    "zip": "3775",
+    "street": "Lenkstrasse  74",
+    "lat": 46.466543,
+    "lng": 7.439708,
+    "color": "Mint",
+    "old": 4,
+    "new": 0,
+    "change": -4,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 1571,
+    "name": "LANDI Veyrier",
+    "city": "Veyrier",
+    "zip": "1255",
+    "street": "Chemin des Marais 52",
+    "lat": 46.16328,
+    "lng": 6.166515,
+    "color": "Mint",
+    "old": 3,
+    "new": 2,
+    "change": -1,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 1492,
+    "name": "LANDI Ins",
+    "city": "Ins",
+    "zip": "3232",
+    "street": "Rämismatte  1",
+    "lat": 46.996143,
+    "lng": 7.107507,
+    "color": "Mint",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-09-09"
   }
 ]
