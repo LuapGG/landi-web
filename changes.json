@@ -40,5 +40,19 @@
     "new": 10,
     "change": -1,
     "date": "2026-09-11"
+  },
+  {
+    "id": 1135,
+    "name": "LANDI Site de Bussy",
+    "city": "Bussy-Chardonney",
+    "zip": "1136",
+    "street": "Ch. du Curbit  1",
+    "lat": 46.525734,
+    "lng": 6.443492,
+    "color": "Dunkelblau",
+    "old": 19,
+    "new": 17,
+    "change": -2,
+    "date": "2026-09-11"
   }
 ]
