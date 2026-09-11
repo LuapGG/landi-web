@@ -1,16 +1,44 @@
 [
   {
-    "id": 1174,
-    "name": "LANDI Pontenet",
-    "city": "Pontenet",
-    "zip": "2733",
-    "street": "Route Cantonale 1",
-    "lat": 47.238115,
-    "lng": 7.249124,
-    "color": "Dunkelblau",
-    "old": 13,
-    "new": 12,
+    "id": 1140,
+    "name": "LANDI Site d'Eysins",
+    "city": "Eysins",
+    "zip": "1262",
+    "street": "Route de Crassier  27",
+    "lat": 46.38462,
+    "lng": 6.212968,
+    "color": "Hellblau",
+    "old": 14,
+    "new": 13,
     "change": -1,
-    "date": "2026-09-10"
+    "date": "2026-09-11"
+  },
+  {
+    "id": 1285,
+    "name": "LANDI Schötz",
+    "city": "Schötz",
+    "zip": "6247",
+    "street": "Schürmatt  3",
+    "lat": 47.17063,
+    "lng": 7.98932,
+    "color": "Vanille",
+    "old": 2,
+    "new": 0,
+    "change": -2,
+    "date": "2026-09-11"
+  },
+  {
+    "id": 1140,
+    "name": "LANDI Site d'Eysins",
+    "city": "Eysins",
+    "zip": "1262",
+    "street": "Route de Crassier  27",
+    "lat": 46.38462,
+    "lng": 6.212968,
+    "color": "Mint",
+    "old": 11,
+    "new": 10,
+    "change": -1,
+    "date": "2026-09-11"
   }
 ]
