@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1362,
+    "name": "LANDI Marly",
+    "city": "Marly",
+    "zip": "1723",
+    "street": "Route de Chésalles  3",
+    "lat": 46.771747,
+    "lng": 7.16049,
+    "color": "Vanille",
+    "old": 11,
+    "new": 10,
+    "change": -1,
+    "date": "2026-09-14"
+  }
+]
