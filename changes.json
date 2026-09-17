@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1216,
+    "name": "LANDI Wynigen",
+    "city": "Wynigen",
+    "zip": "3472",
+    "street": "Tannwaldmoosweg  1",
+    "lat": 47.103946,
+    "lng": 7.66068,
+    "color": "Dunkelblau",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-09-17"
+  }
+]
