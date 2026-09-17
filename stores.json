@@ -716,7 +716,7 @@
     },
     "Url": "/places/de/landi-stursanne",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "07:30 - 12:00, 13:30 - 18:00",
+    "OeffnungszeitenToday": "13:30 - 18:00, 07:30 - 12:00",
     "Phone": "032 461 31 31"
   },
   {
@@ -1850,7 +1850,7 @@
     },
     "Url": "/places/de/landi-eriswil",
     "UrlDirect": "http://www.landieriswil.ch/",
-    "OeffnungszeitenToday": "07:30 - 11:30",
+    "OeffnungszeitenToday": "13:00 - 18:00, 07:30 - 11:30",
     "Phone": "058 476 96 96"
   },
   {
@@ -1868,7 +1868,7 @@
     },
     "Url": "/places/de/landi-oberes-fricktal",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "07:00 - 12:00",
+    "OeffnungszeitenToday": "07:00 - 12:00, 14:30 - 18:00",
     "Phone": "062 877 11 60 / 079 404 01 80"
   },
   {
@@ -1994,7 +1994,7 @@
     },
     "Url": "/places/de/landi-seengen",
     "UrlDirect": "http://www.landihallwilersee.ch",
-    "OeffnungszeitenToday": "13:00 - 18:30, 07:30 - 12:15",
+    "OeffnungszeitenToday": "07:30 - 12:15, 13:00 - 18:30",
     "Phone": "062 777 17 86"
   },
   {
@@ -2624,7 +2624,7 @@
     },
     "Url": "/places/de/landi-weisslingen",
     "UrlDirect": "http://www.wisligzaeller.ch",
-    "OeffnungszeitenToday": "13:30 - 18:30, 07:30 - 12:00",
+    "OeffnungszeitenToday": "07:30 - 12:00, 13:30 - 18:30",
     "Phone": "052 384 11 05"
   },
   {
@@ -2714,7 +2714,7 @@
     },
     "Url": "/places/de/landi-altnau",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "08:00 - 12:00, 13:30 - 18:30",
+    "OeffnungszeitenToday": "13:30 - 18:30, 08:00 - 12:00",
     "Phone": "071 695 19 34"
   },
   {
@@ -3038,7 +3038,7 @@
     },
     "Url": "/places/de/landi-urnaesch-laveba-landi-ag",
     "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-und-prima-urnaesch",
-    "OeffnungszeitenToday": "13:30 - 18:30, 07:00 - 12:00",
+    "OeffnungszeitenToday": "07:00 - 12:00, 13:30 - 18:30",
     "Phone": "058 400 62 40"
   },
   {
@@ -3308,7 +3308,7 @@
     },
     "Url": "/places/de/landi-maerwil-laveba-landi-ag",
     "UrlDirect": "https://landi.swiss/de-CH/cooperative/laveba-landi-ag/store/landi-laden-maerwil",
-    "OeffnungszeitenToday": "08:00 - 12:00",
+    "OeffnungszeitenToday": "08:00 - 12:00, 13:30 - 18:00",
     "Phone": "058 400 68 90"
   },
   {
@@ -3326,7 +3326,7 @@
     },
     "Url": "/places/de/landi-buetschwil",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "07:30 - 12:00, 13:30 - 18:30",
+    "OeffnungszeitenToday": "13:30 - 18:30, 07:30 - 12:00",
     "Phone": "058 400 69 70"
   },
   {
@@ -3362,7 +3362,7 @@
     },
     "Url": "/places/de/landi-ganterschwil-genossenschaft",
     "UrlDirect": "http://www.landiganterschwil.ch",
-    "OeffnungszeitenToday": "07:30 - 12:00, 13:30 - 18:30",
+    "OeffnungszeitenToday": "13:30 - 18:30, 07:30 - 12:00",
     "Phone": "071 983 17 40"
   },
   {
@@ -3614,7 +3614,7 @@
     },
     "Url": "/places/de/landi-brenzikofen",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "07:00 - 12:00",
+    "OeffnungszeitenToday": "07:00 - 12:00, 13:30 - 18:30",
     "Phone": "031 771 03 82"
   },
   {
@@ -4730,7 +4730,7 @@
     },
     "Url": "/places/de/landi-luescherz",
     "UrlDirect": null,
-    "OeffnungszeitenToday": " - ",
+    "OeffnungszeitenToday": "08:00 - 11:30",
     "Phone": "032 338 19 34"
   },
   {
