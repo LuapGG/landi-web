@@ -266,7 +266,7 @@
     },
     "Url": "/places/de/landi-avenches",
     "UrlDirect": "http://www.landiavenches.ch",
-    "OeffnungszeitenToday": "08:00 - 19:00",
+    "OeffnungszeitenToday": "08:00 - 20:00",
     "Phone": "026 676 94 00"
   },
   {
@@ -320,7 +320,7 @@
     },
     "Url": "/places/de/landi-bulle",
     "UrlDirect": "http://www.landimolesonsarine.ch",
-    "OeffnungszeitenToday": "08:00 - 18:30",
+    "OeffnungszeitenToday": "08:00 - 20:00",
     "Phone": "058 434 24 00"
   },
   {
@@ -2138,7 +2138,7 @@
     },
     "Url": "/places/de/landi-willisau",
     "UrlDirect": "www.landiluzernwest.ch",
-    "OeffnungszeitenToday": "08:00 - 19:00",
+    "OeffnungszeitenToday": "08:00 - 20:00",
     "Phone": "058 476 56 23"
   },
   {
@@ -2264,7 +2264,7 @@
     },
     "Url": "/places/de/landi-schoetz",
     "UrlDirect": "www.landiluzernwest.ch",
-    "OeffnungszeitenToday": "08:00 - 19:00",
+    "OeffnungszeitenToday": "08:00 - 20:00",
     "Phone": "058 476 56 25"
   },
   {
@@ -2282,7 +2282,7 @@
     },
     "Url": "/places/de/landi-reiden",
     "UrlDirect": "www.landiluzernwest.ch",
-    "OeffnungszeitenToday": "08:00 - 19:00",
+    "OeffnungszeitenToday": "08:00 - 20:00",
     "Phone": "058 476 56 27"
   },
   {
@@ -2660,7 +2660,7 @@
     },
     "Url": "/places/de/landi-hoerhausen",
     "UrlDirect": "http://www.landiseeruecken.ch/",
-    "OeffnungszeitenToday": "07:30 - 12:00, 13:30 - 18:30",
+    "OeffnungszeitenToday": "13:30 - 18:30, 07:30 - 12:00",
     "Phone": "052 763 26 44"
   },
   {
@@ -4730,7 +4730,7 @@
     },
     "Url": "/places/de/landi-luescherz",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "08:00 - 11:30",
+    "OeffnungszeitenToday": " - ",
     "Phone": "032 338 19 34"
   },
   {
