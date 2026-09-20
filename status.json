@@ -1,9 +1,9 @@
 {
-  "retrieved_at": "2026-09-19T17:44:07.645447+00:00",
-  "retrieval_date": "2026-09-19",
+  "retrieved_at": "2026-09-20T12:57:19.914378+00:00",
+  "retrieval_date": "2026-09-20",
   "stores": 269,
   "stock_entries": 1060,
   "total_stock": 970,
-  "previous_day_total": 971,
-  "change_from_previous_day": -1
+  "previous_day_total": 970,
+  "change_from_previous_day": 0
 }
