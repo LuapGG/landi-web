@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": 1340,
+    "name": "LANDI Schönengrund",
+    "city": "Schönengrund",
+    "zip": "9105",
+    "street": "Hauptstrasse  10",
+    "lat": 47.32792,
+    "lng": 9.221119,
+    "color": "Hellblau",
+    "old": 2,
+    "new": 1,
+    "change": -1,
+    "date": "2026-09-22"
+  },
+  {
+    "id": 1340,
+    "name": "LANDI Schönengrund",
+    "city": "Schönengrund",
+    "zip": "9105",
+    "street": "Hauptstrasse  10",
+    "lat": 47.32792,
+    "lng": 9.221119,
+    "color": "Vanille",
+    "old": 2,
+    "new": 1,
+    "change": -1,
+    "date": "2026-09-22"
+  }
+]
