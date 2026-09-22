@@ -464,7 +464,7 @@
     },
     "Url": "/places/de/landi-chenens",
     "UrlDirect": "http://www.chenensvins.ch/",
-    "OeffnungszeitenToday": "08:00 - 12:00, 13:30 - 18:30",
+    "OeffnungszeitenToday": "13:30 - 18:30, 08:00 - 12:00",
     "Phone": "026 477 90 00"
   },
   {
@@ -1058,7 +1058,7 @@
     },
     "Url": "/places/de/landi-ueberstorf",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "08:00 - 11:30, 14:00 - 17:30",
+    "OeffnungszeitenToday": "08:00 - 11:30",
     "Phone": "031 741 02 79"
   },
   {
@@ -1868,7 +1868,7 @@
     },
     "Url": "/places/de/landi-oberes-fricktal",
     "UrlDirect": null,
-    "OeffnungszeitenToday": "07:00 - 12:00",
+    "OeffnungszeitenToday": "14:30 - 18:00, 07:00 - 12:00",
     "Phone": "062 877 11 60 / 079 404 01 80"
   },
   {
@@ -3416,7 +3416,7 @@
     },
     "Url": "/places/de/landi-unterstammheim",
     "UrlDirect": "http://www.landiseebachtal.ch",
-    "OeffnungszeitenToday": "13:30 - 18:30, 08:00 - 12:00",
+    "OeffnungszeitenToday": "08:00 - 12:00, 13:30 - 18:30",
     "Phone": "052 744 10 40"
   },
   {
@@ -4262,7 +4262,7 @@
     },
     "Url": "/places/de/landi-buchberg",
     "UrlDirect": "http://www.landibuchberg.ch",
-    "OeffnungszeitenToday": "09:00 - 12:00",
+    "OeffnungszeitenToday": "09:00 - 12:00, 14:00 - 17:30",
     "Phone": "044 867 39 24"
   },
   {
@@ -4730,7 +4730,7 @@
     },
     "Url": "/places/de/landi-luescherz",
     "UrlDirect": null,
-    "OeffnungszeitenToday": " - ",
+    "OeffnungszeitenToday": "08:00 - 11:30",
     "Phone": "032 338 19 34"
   },
   {
