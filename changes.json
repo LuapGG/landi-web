@@ -1,16 +1,16 @@
 [
   {
-    "id": 1338,
-    "name": "LANDI Herisau",
-    "city": "Herisau",
-    "zip": "9100",
-    "street": "St. Gallerstr.  25",
-    "lat": 47.391674,
-    "lng": 9.275732,
-    "color": "Mint",
+    "id": 1627,
+    "name": "LANDI Buchs (AG)",
+    "city": "Buchs (AG)",
+    "zip": "5033",
+    "street": "Bresteneggstrasse 9b",
+    "lat": 47.38471,
+    "lng": 8.08895,
+    "color": "Hellblau",
     "old": 1,
     "new": 0,
     "change": -1,
-    "date": "2026-09-23"
+    "date": "2026-09-24"
   }
 ]
