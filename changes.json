@@ -1,16 +1,16 @@
 [
   {
-    "id": 1174,
-    "name": "LANDI Pontenet",
-    "city": "Pontenet",
-    "zip": "2733",
-    "street": "Route Cantonale 1",
-    "lat": 47.238115,
-    "lng": 7.249124,
+    "id": 1166,
+    "name": "LANDI Bevaix",
+    "city": "Bevaix",
+    "zip": "2022",
+    "street": "Chemin des Maladières  14",
+    "lat": 46.920708,
+    "lng": 6.807661,
     "color": "Mint",
-    "old": 12,
-    "new": 11,
+    "old": 4,
+    "new": 3,
     "change": -1,
-    "date": "2026-09-25"
+    "date": "2026-09-26"
   }
 ]
