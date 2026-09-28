@@ -1,17 +1,17 @@
 [
   {
-    "id": 1192,
-    "name": "LANDI Mühlethurnen",
-    "city": "Mühlethurnen",
-    "zip": "3127",
-    "street": "Bahnhofstrasse  45",
-    "lat": 46.814524,
-    "lng": 7.513601,
-    "color": "Mint",
-    "old": 8,
-    "new": 7,
-    "change": -1,
-    "date": "2026-09-27"
+    "id": 1297,
+    "name": "LANDI Maur",
+    "city": "Maur",
+    "zip": "8124",
+    "street": "Rellikonstrasse  3",
+    "lat": 47.339929,
+    "lng": 8.670614,
+    "color": "Dunkelblau",
+    "old": 0,
+    "new": 1,
+    "change": 1,
+    "date": "2026-09-28"
   },
   {
     "id": 1192,
@@ -21,10 +21,24 @@
     "street": "Bahnhofstrasse  45",
     "lat": 46.814524,
     "lng": 7.513601,
-    "color": "Vanille",
-    "old": 1,
+    "color": "Mint",
+    "old": 7,
     "new": 0,
+    "change": -7,
+    "date": "2026-09-28"
+  },
+  {
+    "id": 1297,
+    "name": "LANDI Maur",
+    "city": "Maur",
+    "zip": "8124",
+    "street": "Rellikonstrasse  3",
+    "lat": 47.339929,
+    "lng": 8.670614,
+    "color": "Hellblau",
+    "old": 4,
+    "new": 3,
     "change": -1,
-    "date": "2026-09-27"
+    "date": "2026-09-28"
   }
 ]
