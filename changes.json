@@ -1,16 +1,30 @@
 [
   {
-    "id": 1571,
-    "name": "LANDI Veyrier",
-    "city": "Veyrier",
-    "zip": "1255",
-    "street": "Chemin des Marais 52",
-    "lat": 46.16328,
-    "lng": 6.166515,
-    "color": "Mint",
-    "old": 2,
-    "new": 1,
+    "id": 1236,
+    "name": "LANDI Grindelwald ",
+    "city": "Grindelwald",
+    "zip": "3818",
+    "street": "Wärgistalstrasse  4",
+    "lat": 46.618811,
+    "lng": 8.02522,
+    "color": "Vanille",
+    "old": 10,
+    "new": 9,
     "change": -1,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
+  },
+  {
+    "id": 1236,
+    "name": "LANDI Grindelwald ",
+    "city": "Grindelwald",
+    "zip": "3818",
+    "street": "Wärgistalstrasse  4",
+    "lat": 46.618811,
+    "lng": 8.02522,
+    "color": "Mint",
+    "old": 15,
+    "new": 14,
+    "change": -1,
+    "date": "2026-10-03"
   }
 ]
