@@ -468,6 +468,18 @@
     "stock": 0
   },
   {
+    "id": 1630,
+    "name": "LANDI Cornaux",
+    "city": "Cornaux",
+    "zip": "2087",
+    "street": "Route de Moulin 10",
+    "lat": 47.038443,
+    "lng": 7.022708,
+    "color": "Hellblau",
+    "product": "105793",
+    "stock": 0
+  },
+  {
     "id": 1169,
     "name": "LANDI Val-de-Travers",
     "city": "Môtiers",
@@ -3643,6 +3655,18 @@
     "street": "Passage des Cèpes  1",
     "lat": 47.06018,
     "lng": 6.910809,
+    "color": "Dunkelblau",
+    "product": "105794",
+    "stock": 0
+  },
+  {
+    "id": 1630,
+    "name": "LANDI Cornaux",
+    "city": "Cornaux",
+    "zip": "2087",
+    "street": "Route de Moulin 10",
+    "lat": 47.038443,
+    "lng": 7.022708,
     "color": "Dunkelblau",
     "product": "105794",
     "stock": 0
@@ -6828,6 +6852,18 @@
     "stock": 0
   },
   {
+    "id": 1630,
+    "name": "LANDI Cornaux",
+    "city": "Cornaux",
+    "zip": "2087",
+    "street": "Route de Moulin 10",
+    "lat": 47.038443,
+    "lng": 7.022708,
+    "color": "Mint",
+    "product": "105795",
+    "stock": 0
+  },
+  {
     "id": 1169,
     "name": "LANDI Val-de-Travers",
     "city": "Môtiers",
@@ -10003,6 +10039,18 @@
     "street": "Passage des Cèpes  1",
     "lat": 47.06018,
     "lng": 6.910809,
+    "color": "Vanille",
+    "product": "105796",
+    "stock": 0
+  },
+  {
+    "id": 1630,
+    "name": "LANDI Cornaux",
+    "city": "Cornaux",
+    "zip": "2087",
+    "street": "Route de Moulin 10",
+    "lat": 47.038443,
+    "lng": 7.022708,
     "color": "Vanille",
     "product": "105796",
     "stock": 0
