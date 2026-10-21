@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": 1139,
+    "name": "LANDI Meinier",
+    "city": "Meinier",
+    "zip": "1252",
+    "street": "Route de Compois 14",
+    "lat": 46.246523,
+    "lng": 6.219203,
+    "color": "Dunkelblau",
+    "old": 15,
+    "new": 0,
+    "change": -15,
+    "date": "2026-10-21"
+  },
+  {
+    "id": 1139,
+    "name": "LANDI Meinier",
+    "city": "Meinier",
+    "zip": "1252",
+    "street": "Route de Compois 14",
+    "lat": 46.246523,
+    "lng": 6.219203,
+    "color": "Vanille",
+    "old": 7,
+    "new": 0,
+    "change": -7,
+    "date": "2026-10-21"
+  },
+  {
+    "id": 1139,
+    "name": "LANDI Meinier",
+    "city": "Meinier",
+    "zip": "1252",
+    "street": "Route de Compois 14",
+    "lat": 46.246523,
+    "lng": 6.219203,
+    "color": "Hellblau",
+    "old": 9,
+    "new": 0,
+    "change": -9,
+    "date": "2026-10-21"
+  },
+  {
+    "id": 1139,
+    "name": "LANDI Meinier",
+    "city": "Meinier",
+    "zip": "1252",
+    "street": "Route de Compois 14",
+    "lat": 46.246523,
+    "lng": 6.219203,
+    "color": "Mint",
+    "old": 25,
+    "new": 3,
+    "change": -22,
+    "date": "2026-10-21"
+  }
+]
