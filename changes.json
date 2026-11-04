@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": 1284,
+    "name": "LANDI Beromünster",
+    "city": "Beromünster",
+    "zip": "6215",
+    "street": "Aargauerstrasse 11",
+    "lat": 47.207801,
+    "lng": 8.19074,
+    "color": "Vanille",
+    "old": 2,
+    "new": 0,
+    "change": -2,
+    "date": "2026-11-04"
+  },
+  {
+    "id": 1284,
+    "name": "LANDI Beromünster",
+    "city": "Beromünster",
+    "zip": "6215",
+    "street": "Aargauerstrasse 11",
+    "lat": 47.207801,
+    "lng": 8.19074,
+    "color": "Mint",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-11-04"
+  }
+]
