@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1234,
+    "name": "LANDI Gstaad",
+    "city": "Gstaad",
+    "zip": "3780",
+    "street": "Güterstrasse  10",
+    "lat": 46.474786,
+    "lng": 7.284593,
+    "color": "Hellblau",
+    "old": 9,
+    "new": 8,
+    "change": -1,
+    "date": "2026-11-13"
+  }
+]
