@@ -1,9 +1,9 @@
 {
-  "retrieved_at": "2026-11-22T21:32:10.035793+00:00",
-  "retrieval_date": "2026-11-22",
+  "retrieved_at": "2026-11-23T20:55:04.254523+00:00",
+  "retrieval_date": "2026-11-23",
   "stores": 270,
   "stock_entries": 1064,
-  "total_stock": 882,
+  "total_stock": 935,
   "previous_day_total": 882,
-  "change_from_previous_day": 0
+  "change_from_previous_day": 53
 }
