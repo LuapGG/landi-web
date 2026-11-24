@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": 1164,
+    "name": "LANDI Saxon",
+    "city": "Saxon",
+    "zip": "1907",
+    "street": "Route du Léman  12",
+    "lat": 46.145375,
+    "lng": 7.166492,
+    "color": "Dunkelblau",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-11-24"
+  },
+  {
+    "id": 1164,
+    "name": "LANDI Saxon",
+    "city": "Saxon",
+    "zip": "1907",
+    "street": "Route du Léman  12",
+    "lat": 46.145375,
+    "lng": 7.166492,
+    "color": "Mint",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-11-24"
+  },
+  {
+    "id": 1164,
+    "name": "LANDI Saxon",
+    "city": "Saxon",
+    "zip": "1907",
+    "street": "Route du Léman  12",
+    "lat": 46.145375,
+    "lng": 7.166492,
+    "color": "Hellblau",
+    "old": 1,
+    "new": 0,
+    "change": -1,
+    "date": "2026-11-24"
+  }
+]
