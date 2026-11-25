@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": 1564,
+    "name": "LANDI Zweisimmen",
+    "city": "Zweisimmen",
+    "zip": "3770",
+    "street": "Thunstrasse  29H",
+    "lat": 46.559279,
+    "lng": 7.37425,
+    "color": "Dunkelblau",
+    "old": 13,
+    "new": 4,
+    "change": -9,
+    "date": "2026-11-25"
+  },
+  {
+    "id": 1564,
+    "name": "LANDI Zweisimmen",
+    "city": "Zweisimmen",
+    "zip": "3770",
+    "street": "Thunstrasse  29H",
+    "lat": 46.559279,
+    "lng": 7.37425,
+    "color": "Hellblau",
+    "old": 19,
+    "new": 7,
+    "change": -12,
+    "date": "2026-11-25"
+  },
+  {
+    "id": 1564,
+    "name": "LANDI Zweisimmen",
+    "city": "Zweisimmen",
+    "zip": "3770",
+    "street": "Thunstrasse  29H",
+    "lat": 46.559279,
+    "lng": 7.37425,
+    "color": "Vanille",
+    "old": 16,
+    "new": 8,
+    "change": -8,
+    "date": "2026-11-25"
+  },
+  {
+    "id": 1564,
+    "name": "LANDI Zweisimmen",
+    "city": "Zweisimmen",
+    "zip": "3770",
+    "street": "Thunstrasse  29H",
+    "lat": 46.559279,
+    "lng": 7.37425,
+    "color": "Mint",
+    "old": 12,
+    "new": 2,
+    "change": -10,
+    "date": "2026-11-25"
+  }
+]
