@@ -1433,8 +1433,8 @@
     "city": "Lohn-Ammannsegg",
     "zip": "4573",
     "street": "beim Bahnhof  5",
-    "lat": 47.162994,
-    "lng": 7.526958,
+    "lat": 47.160721,
+    "lng": 7.52686,
     "color": "Hellblau",
     "product": "105793",
     "stock": 0
@@ -4625,8 +4625,8 @@
     "city": "Lohn-Ammannsegg",
     "zip": "4573",
     "street": "beim Bahnhof  5",
-    "lat": 47.162994,
-    "lng": 7.526958,
+    "lat": 47.160721,
+    "lng": 7.52686,
     "color": "Dunkelblau",
     "product": "105794",
     "stock": 0
@@ -7817,8 +7817,8 @@
     "city": "Lohn-Ammannsegg",
     "zip": "4573",
     "street": "beim Bahnhof  5",
-    "lat": 47.162994,
-    "lng": 7.526958,
+    "lat": 47.160721,
+    "lng": 7.52686,
     "color": "Mint",
     "product": "105795",
     "stock": 0
@@ -10089,7 +10089,7 @@
     "lng": 7.004953,
     "color": "Vanille",
     "product": "105796",
-    "stock": 1
+    "stock": 0
   },
   {
     "id": 1172,
@@ -11009,8 +11009,8 @@
     "city": "Lohn-Ammannsegg",
     "zip": "4573",
     "street": "beim Bahnhof  5",
-    "lat": 47.162994,
-    "lng": 7.526958,
+    "lat": 47.160721,
+    "lng": 7.52686,
     "color": "Vanille",
     "product": "105796",
     "stock": 0
